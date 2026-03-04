@@ -1,0 +1,2663 @@
+=== Prosty Raport Kodu v2 ===
+Sciezka: /Users/mateuszuser/Programistyka/Portal-Ogloszeniowy
+Liczba plikow: 263
+Wszystkie linie: 30793
+Linie kodu: 24874
+Linie puste: 4735
+Linie komentarzy: 1184
+Wykryte funkcje: 463
+Linie > 80 znakow: 1610
+Liczba TODO: 21
+
+=== Najwieksze pliki (top 5) ===
+1. /Users/mateuszuser/Programistyka/Portal-Ogloszeniowy/Strona_9/node_modules/qs/test/parse.js (1396 linii)
+2. /Users/mateuszuser/Programistyka/Portal-Ogloszeniowy/Strona_9/node_modules/qs/test/stringify.js (1310 linii)
+3. /Users/mateuszuser/Programistyka/Portal-Ogloszeniowy/Strona_9/node_modules/express/lib/response.js (1053 linii)
+4. /Users/mateuszuser/Programistyka/Portal-Ogloszeniowy/Strona_9/node_modules/send/index.js (997 linii)
+5. /Users/mateuszuser/Programistyka/Portal-Ogloszeniowy/Strona_9/node_modules/router/index.js (748 linii)
+
+=== Statystyki zaawansowane ===
+
+/Users/mateuszuser/Programistyka/Portal-Ogloszeniowy/Strona_9/node_modules/accepts/index.js:
+  - Zlozonosc cyklomatyczna: 15
+  - Gestosc kodu: 85.71%
+  - Wspolczynnik duplikacji: 0.00%
+  - Importy: 0
+  - Klasy: 0
+  - Petle: 4
+  - If-y: 10
+  - Try-catch: 0
+
+/Users/mateuszuser/Programistyka/Portal-Ogloszeniowy/Strona_9/node_modules/body-parser/index.js:
+  - Zlozonosc cyklomatyczna: 1
+  - Gestosc kodu: 88.73%
+  - Wspolczynnik duplikacji: 0.00%
+  - Importy: 0
+  - Klasy: 0
+  - Petle: 0
+  - If-y: 0
+  - Try-catch: 0
+
+/Users/mateuszuser/Programistyka/Portal-Ogloszeniowy/Strona_9/node_modules/body-parser/lib/read.js:
+  - Zlozonosc cyklomatyczna: 18
+  - Gestosc kodu: 87.45%
+  - Wspolczynnik duplikacji: 0.00%
+  - Importy: 0
+  - Klasy: 0
+  - Petle: 0
+  - If-y: 14
+  - Try-catch: 3
+
+/Users/mateuszuser/Programistyka/Portal-Ogloszeniowy/Strona_9/node_modules/body-parser/lib/types/json.js:
+  - Zlozonosc cyklomatyczna: 9
+  - Gestosc kodu: 84.81%
+  - Wspolczynnik duplikacji: 0.00%
+  - Importy: 0
+  - Klasy: 0
+  - Petle: 1
+  - If-y: 5
+  - Try-catch: 2
+
+/Users/mateuszuser/Programistyka/Portal-Ogloszeniowy/Strona_9/node_modules/body-parser/lib/types/raw.js:
+  - Zlozonosc cyklomatyczna: 1
+  - Gestosc kodu: 80.95%
+  - Wspolczynnik duplikacji: 0.00%
+  - Importy: 0
+  - Klasy: 0
+  - Petle: 0
+  - If-y: 0
+  - Try-catch: 0
+
+/Users/mateuszuser/Programistyka/Portal-Ogloszeniowy/Strona_9/node_modules/body-parser/lib/types/text.js:
+  - Zlozonosc cyklomatyczna: 1
+  - Gestosc kodu: 80.56%
+  - Wspolczynnik duplikacji: 0.00%
+  - Importy: 0
+  - Klasy: 0
+  - Petle: 0
+  - If-y: 0
+  - Try-catch: 0
+
+/Users/mateuszuser/Programistyka/Portal-Ogloszeniowy/Strona_9/node_modules/body-parser/lib/types/urlencoded.js:
+  - Zlozonosc cyklomatyczna: 9
+  - Gestosc kodu: 85.92%
+  - Wspolczynnik duplikacji: 0.00%
+  - Importy: 0
+  - Klasy: 0
+  - Petle: 0
+  - If-y: 7
+  - Try-catch: 1
+
+/Users/mateuszuser/Programistyka/Portal-Ogloszeniowy/Strona_9/node_modules/body-parser/lib/utils.js:
+  - Zlozonosc cyklomatyczna: 4
+  - Gestosc kodu: 88.78%
+  - Wspolczynnik duplikacji: 0.00%
+  - Importy: 0
+  - Klasy: 0
+  - Petle: 0
+  - If-y: 2
+  - Try-catch: 1
+
+/Users/mateuszuser/Programistyka/Portal-Ogloszeniowy/Strona_9/node_modules/bytes/index.js:
+  - Zlozonosc cyklomatyczna: 12
+  - Gestosc kodu: 84.12%
+  - Wspolczynnik duplikacji: 6.43%
+  - Importy: 0
+  - Klasy: 0
+  - Petle: 0
+  - If-y: 11
+  - Try-catch: 0
+
+/Users/mateuszuser/Programistyka/Portal-Ogloszeniowy/Strona_9/node_modules/call-bind-apply-helpers/actualApply.d.ts:
+  - Zlozonosc cyklomatyczna: 1
+  - Gestosc kodu: 100.00%
+  - Wspolczynnik duplikacji: 0.00%
+  - Importy: 0
+  - Klasy: 0
+  - Petle: 0
+  - If-y: 0
+  - Try-catch: 0
+
+/Users/mateuszuser/Programistyka/Portal-Ogloszeniowy/Strona_9/node_modules/call-bind-apply-helpers/actualApply.js:
+  - Zlozonosc cyklomatyczna: 1
+  - Gestosc kodu: 70.00%
+  - Wspolczynnik duplikacji: 0.00%
+  - Importy: 0
+  - Klasy: 0
+  - Petle: 0
+  - If-y: 0
+  - Try-catch: 0
+
+/Users/mateuszuser/Programistyka/Portal-Ogloszeniowy/Strona_9/node_modules/call-bind-apply-helpers/applyBind.d.ts:
+  - Zlozonosc cyklomatyczna: 1
+  - Gestosc kodu: 73.68%
+  - Wspolczynnik duplikacji: 0.00%
+  - Importy: 1
+  - Klasy: 0
+  - Petle: 0
+  - If-y: 0
+  - Try-catch: 0
+
+/Users/mateuszuser/Programistyka/Portal-Ogloszeniowy/Strona_9/node_modules/call-bind-apply-helpers/applyBind.js:
+  - Zlozonosc cyklomatyczna: 1
+  - Gestosc kodu: 80.00%
+  - Wspolczynnik duplikacji: 12.50%
+  - Importy: 0
+  - Klasy: 0
+  - Petle: 0
+  - If-y: 0
+  - Try-catch: 0
+
+/Users/mateuszuser/Programistyka/Portal-Ogloszeniowy/Strona_9/node_modules/call-bind-apply-helpers/functionApply.d.ts:
+  - Zlozonosc cyklomatyczna: 1
+  - Gestosc kodu: 100.00%
+  - Wspolczynnik duplikacji: 0.00%
+  - Importy: 0
+  - Klasy: 0
+  - Petle: 0
+  - If-y: 0
+  - Try-catch: 0
+
+/Users/mateuszuser/Programistyka/Portal-Ogloszeniowy/Strona_9/node_modules/call-bind-apply-helpers/functionApply.js:
+  - Zlozonosc cyklomatyczna: 1
+  - Gestosc kodu: 75.00%
+  - Wspolczynnik duplikacji: 0.00%
+  - Importy: 0
+  - Klasy: 0
+  - Petle: 0
+  - If-y: 0
+  - Try-catch: 0
+
+/Users/mateuszuser/Programistyka/Portal-Ogloszeniowy/Strona_9/node_modules/call-bind-apply-helpers/functionCall.d.ts:
+  - Zlozonosc cyklomatyczna: 1
+  - Gestosc kodu: 100.00%
+  - Wspolczynnik duplikacji: 0.00%
+  - Importy: 0
+  - Klasy: 0
+  - Petle: 0
+  - If-y: 0
+  - Try-catch: 0
+
+/Users/mateuszuser/Programistyka/Portal-Ogloszeniowy/Strona_9/node_modules/call-bind-apply-helpers/functionCall.js:
+  - Zlozonosc cyklomatyczna: 1
+  - Gestosc kodu: 75.00%
+  - Wspolczynnik duplikacji: 0.00%
+  - Importy: 0
+  - Klasy: 0
+  - Petle: 0
+  - If-y: 0
+  - Try-catch: 0
+
+/Users/mateuszuser/Programistyka/Portal-Ogloszeniowy/Strona_9/node_modules/call-bind-apply-helpers/index.d.ts:
+  - Zlozonosc cyklomatyczna: 1
+  - Gestosc kodu: 89.06%
+  - Wspolczynnik duplikacji: 0.00%
+  - Importy: 0
+  - Klasy: 0
+  - Petle: 0
+  - If-y: 0
+  - Try-catch: 0
+
+/Users/mateuszuser/Programistyka/Portal-Ogloszeniowy/Strona_9/node_modules/call-bind-apply-helpers/index.js:
+  - Zlozonosc cyklomatyczna: 2
+  - Gestosc kodu: 80.00%
+  - Wspolczynnik duplikacji: 8.33%
+  - Importy: 0
+  - Klasy: 0
+  - Petle: 0
+  - If-y: 1
+  - Try-catch: 0
+
+/Users/mateuszuser/Programistyka/Portal-Ogloszeniowy/Strona_9/node_modules/call-bind-apply-helpers/reflectApply.d.ts:
+  - Zlozonosc cyklomatyczna: 1
+  - Gestosc kodu: 66.67%
+  - Wspolczynnik duplikacji: 0.00%
+  - Importy: 0
+  - Klasy: 0
+  - Petle: 0
+  - If-y: 0
+  - Try-catch: 0
+
+/Users/mateuszuser/Programistyka/Portal-Ogloszeniowy/Strona_9/node_modules/call-bind-apply-helpers/reflectApply.js:
+  - Zlozonosc cyklomatyczna: 1
+  - Gestosc kodu: 75.00%
+  - Wspolczynnik duplikacji: 0.00%
+  - Importy: 0
+  - Klasy: 0
+  - Petle: 0
+  - If-y: 0
+  - Try-catch: 0
+
+/Users/mateuszuser/Programistyka/Portal-Ogloszeniowy/Strona_9/node_modules/call-bind-apply-helpers/test/index.js:
+  - Zlozonosc cyklomatyczna: 1
+  - Gestosc kodu: 84.13%
+  - Wspolczynnik duplikacji: 2.38%
+  - Importy: 0
+  - Klasy: 0
+  - Petle: 0
+  - If-y: 0
+  - Try-catch: 0
+
+/Users/mateuszuser/Programistyka/Portal-Ogloszeniowy/Strona_9/node_modules/call-bound/index.d.ts:
+  - Zlozonosc cyklomatyczna: 1
+  - Gestosc kodu: 87.23%
+  - Wspolczynnik duplikacji: 0.00%
+  - Importy: 0
+  - Klasy: 1
+  - Petle: 0
+  - If-y: 0
+  - Try-catch: 0
+
+/Users/mateuszuser/Programistyka/Portal-Ogloszeniowy/Strona_9/node_modules/call-bound/index.js:
+  - Zlozonosc cyklomatyczna: 2
+  - Gestosc kodu: 73.68%
+  - Wspolczynnik duplikacji: 14.29%
+  - Importy: 0
+  - Klasy: 0
+  - Petle: 0
+  - If-y: 1
+  - Try-catch: 0
+
+/Users/mateuszuser/Programistyka/Portal-Ogloszeniowy/Strona_9/node_modules/call-bound/test/index.js:
+  - Zlozonosc cyklomatyczna: 1
+  - Gestosc kodu: 80.33%
+  - Wspolczynnik duplikacji: 0.00%
+  - Importy: 0
+  - Klasy: 0
+  - Petle: 0
+  - If-y: 0
+  - Try-catch: 0
+
+/Users/mateuszuser/Programistyka/Portal-Ogloszeniowy/Strona_9/node_modules/content-disposition/index.js:
+  - Zlozonosc cyklomatyczna: 21
+  - Gestosc kodu: 80.79%
+  - Wspolczynnik duplikacji: 0.00%
+  - Importy: 0
+  - Klasy: 0
+  - Petle: 2
+  - If-y: 18
+  - Try-catch: 0
+
+/Users/mateuszuser/Programistyka/Portal-Ogloszeniowy/Strona_9/node_modules/content-type/index.js:
+  - Zlozonosc cyklomatyczna: 19
+  - Gestosc kodu: 80.44%
+  - Wspolczynnik duplikacji: 0.00%
+  - Importy: 0
+  - Klasy: 0
+  - Petle: 2
+  - If-y: 16
+  - Try-catch: 0
+
+/Users/mateuszuser/Programistyka/Portal-Ogloszeniowy/Strona_9/node_modules/cookie/index.js:
+  - Zlozonosc cyklomatyczna: 28
+  - Gestosc kodu: 82.39%
+  - Wspolczynnik duplikacji: 2.56%
+  - Importy: 0
+  - Klasy: 0
+  - Petle: 1
+  - If-y: 25
+  - Try-catch: 1
+
+/Users/mateuszuser/Programistyka/Portal-Ogloszeniowy/Strona_9/node_modules/cookie-signature/index.js:
+  - Zlozonosc cyklomatyczna: 5
+  - Gestosc kodu: 89.36%
+  - Wspolczynnik duplikacji: 0.00%
+  - Importy: 0
+  - Klasy: 0
+  - Petle: 0
+  - If-y: 4
+  - Try-catch: 0
+
+/Users/mateuszuser/Programistyka/Portal-Ogloszeniowy/Strona_9/node_modules/cors/lib/index.js:
+  - Zlozonosc cyklomatyczna: 22
+  - Gestosc kodu: 89.92%
+  - Wspolczynnik duplikacji: 5.85%
+  - Importy: 0
+  - Klasy: 0
+  - Petle: 2
+  - If-y: 19
+  - Try-catch: 0
+
+/Users/mateuszuser/Programistyka/Portal-Ogloszeniowy/Strona_9/node_modules/debug/src/browser.js:
+  - Zlozonosc cyklomatyczna: 13
+  - Gestosc kodu: 90.07%
+  - Wspolczynnik duplikacji: 2.74%
+  - Importy: 0
+  - Klasy: 0
+  - Petle: 0
+  - If-y: 8
+  - Try-catch: 4
+
+/Users/mateuszuser/Programistyka/Portal-Ogloszeniowy/Strona_9/node_modules/debug/src/common.js:
+  - Zlozonosc cyklomatyczna: 20
+  - Gestosc kodu: 85.62%
+  - Wspolczynnik duplikacji: 6.69%
+  - Importy: 0
+  - Klasy: 0
+  - Petle: 6
+  - If-y: 13
+  - Try-catch: 0
+
+/Users/mateuszuser/Programistyka/Portal-Ogloszeniowy/Strona_9/node_modules/debug/src/index.js:
+  - Zlozonosc cyklomatyczna: 2
+  - Gestosc kodu: 90.00%
+  - Wspolczynnik duplikacji: 0.00%
+  - Importy: 0
+  - Klasy: 0
+  - Petle: 0
+  - If-y: 1
+  - Try-catch: 0
+
+/Users/mateuszuser/Programistyka/Portal-Ogloszeniowy/Strona_9/node_modules/debug/src/node.js:
+  - Zlozonosc cyklomatyczna: 8
+  - Gestosc kodu: 87.83%
+  - Wspolczynnik duplikacji: 3.57%
+  - Importy: 0
+  - Klasy: 0
+  - Petle: 1
+  - If-y: 5
+  - Try-catch: 1
+
+/Users/mateuszuser/Programistyka/Portal-Ogloszeniowy/Strona_9/node_modules/depd/index.js:
+  - Zlozonosc cyklomatyczna: 35
+  - Gestosc kodu: 77.32%
+  - Wspolczynnik duplikacji: 0.00%
+  - Importy: 0
+  - Klasy: 0
+  - Petle: 6
+  - If-y: 28
+  - Try-catch: 0
+
+/Users/mateuszuser/Programistyka/Portal-Ogloszeniowy/Strona_9/node_modules/depd/lib/browser/index.js:
+  - Zlozonosc cyklomatyczna: 6
+  - Gestosc kodu: 77.92%
+  - Wspolczynnik duplikacji: 0.00%
+  - Importy: 0
+  - Klasy: 0
+  - Petle: 0
+  - If-y: 5
+  - Try-catch: 0
+
+/Users/mateuszuser/Programistyka/Portal-Ogloszeniowy/Strona_9/node_modules/dotenv/config.d.ts:
+  - Zlozonosc cyklomatyczna: 1
+  - Gestosc kodu: 100.00%
+  - Wspolczynnik duplikacji: 0.00%
+  - Importy: 0
+  - Klasy: 0
+  - Petle: 0
+  - If-y: 0
+  - Try-catch: 0
+
+/Users/mateuszuser/Programistyka/Portal-Ogloszeniowy/Strona_9/node_modules/dotenv/config.js:
+  - Zlozonosc cyklomatyczna: 1
+  - Gestosc kodu: 100.00%
+  - Wspolczynnik duplikacji: 0.00%
+  - Importy: 0
+  - Klasy: 0
+  - Petle: 0
+  - If-y: 0
+  - Try-catch: 0
+
+/Users/mateuszuser/Programistyka/Portal-Ogloszeniowy/Strona_9/node_modules/dotenv/lib/cli-options.js:
+  - Zlozonosc cyklomatyczna: 3
+  - Gestosc kodu: 82.35%
+  - Wspolczynnik duplikacji: 0.00%
+  - Importy: 0
+  - Klasy: 0
+  - Petle: 0
+  - If-y: 2
+  - Try-catch: 0
+
+/Users/mateuszuser/Programistyka/Portal-Ogloszeniowy/Strona_9/node_modules/dotenv/lib/env-options.js:
+  - Zlozonosc cyklomatyczna: 7
+  - Gestosc kodu: 75.00%
+  - Wspolczynnik duplikacji: 0.00%
+  - Importy: 0
+  - Klasy: 0
+  - Petle: 0
+  - If-y: 6
+  - Try-catch: 0
+
+/Users/mateuszuser/Programistyka/Portal-Ogloszeniowy/Strona_9/node_modules/dotenv/lib/main.d.ts:
+  - Zlozonosc cyklomatyczna: 1
+  - Gestosc kodu: 89.39%
+  - Wspolczynnik duplikacji: 0.00%
+  - Importy: 1
+  - Klasy: 0
+  - Petle: 0
+  - If-y: 0
+  - Try-catch: 0
+
+/Users/mateuszuser/Programistyka/Portal-Ogloszeniowy/Strona_9/node_modules/dotenv/lib/main.js:
+  - Zlozonosc cyklomatyczna: 46
+  - Gestosc kodu: 82.49%
+  - Wspolczynnik duplikacji: 0.93%
+  - Importy: 0
+  - Klasy: 0
+  - Petle: 7
+  - If-y: 33
+  - Try-catch: 5
+
+/Users/mateuszuser/Programistyka/Portal-Ogloszeniowy/Strona_9/node_modules/dunder-proto/get.d.ts:
+  - Zlozonosc cyklomatyczna: 1
+  - Gestosc kodu: 60.00%
+  - Wspolczynnik duplikacji: 0.00%
+  - Importy: 0
+  - Klasy: 0
+  - Petle: 0
+  - If-y: 0
+  - Try-catch: 0
+
+/Users/mateuszuser/Programistyka/Portal-Ogloszeniowy/Strona_9/node_modules/dunder-proto/get.js:
+  - Zlozonosc cyklomatyczna: 3
+  - Gestosc kodu: 83.33%
+  - Wspolczynnik duplikacji: 4.55%
+  - Importy: 0
+  - Klasy: 0
+  - Petle: 0
+  - If-y: 1
+  - Try-catch: 1
+
+/Users/mateuszuser/Programistyka/Portal-Ogloszeniowy/Strona_9/node_modules/dunder-proto/set.d.ts:
+  - Zlozonosc cyklomatyczna: 1
+  - Gestosc kodu: 60.00%
+  - Wspolczynnik duplikacji: 0.00%
+  - Importy: 0
+  - Klasy: 0
+  - Petle: 0
+  - If-y: 0
+  - Try-catch: 0
+
+/Users/mateuszuser/Programistyka/Portal-Ogloszeniowy/Strona_9/node_modules/dunder-proto/set.js:
+  - Zlozonosc cyklomatyczna: 4
+  - Gestosc kodu: 85.71%
+  - Wspolczynnik duplikacji: 3.85%
+  - Importy: 0
+  - Klasy: 0
+  - Petle: 0
+  - If-y: 2
+  - Try-catch: 1
+
+/Users/mateuszuser/Programistyka/Portal-Ogloszeniowy/Strona_9/node_modules/dunder-proto/test/get.js:
+  - Zlozonosc cyklomatyczna: 2
+  - Gestosc kodu: 76.47%
+  - Wspolczynnik duplikacji: 0.00%
+  - Importy: 0
+  - Klasy: 0
+  - Petle: 0
+  - If-y: 1
+  - Try-catch: 0
+
+/Users/mateuszuser/Programistyka/Portal-Ogloszeniowy/Strona_9/node_modules/dunder-proto/test/index.js:
+  - Zlozonosc cyklomatyczna: 1
+  - Gestosc kodu: 75.00%
+  - Wspolczynnik duplikacji: 0.00%
+  - Importy: 0
+  - Klasy: 0
+  - Petle: 0
+  - If-y: 0
+  - Try-catch: 0
+
+/Users/mateuszuser/Programistyka/Portal-Ogloszeniowy/Strona_9/node_modules/dunder-proto/test/set.js:
+  - Zlozonosc cyklomatyczna: 3
+  - Gestosc kodu: 80.00%
+  - Wspolczynnik duplikacji: 0.00%
+  - Importy: 0
+  - Klasy: 0
+  - Petle: 0
+  - If-y: 2
+  - Try-catch: 0
+
+/Users/mateuszuser/Programistyka/Portal-Ogloszeniowy/Strona_9/node_modules/ee-first/index.js:
+  - Zlozonosc cyklomatyczna: 7
+  - Gestosc kodu: 78.95%
+  - Wspolczynnik duplikacji: 0.00%
+  - Importy: 0
+  - Klasy: 0
+  - Petle: 4
+  - If-y: 2
+  - Try-catch: 0
+
+/Users/mateuszuser/Programistyka/Portal-Ogloszeniowy/Strona_9/node_modules/encodeurl/index.js:
+  - Zlozonosc cyklomatyczna: 1
+  - Gestosc kodu: 81.67%
+  - Wspolczynnik duplikacji: 0.00%
+  - Importy: 0
+  - Klasy: 0
+  - Petle: 0
+  - If-y: 0
+  - Try-catch: 0
+
+/Users/mateuszuser/Programistyka/Portal-Ogloszeniowy/Strona_9/node_modules/es-define-property/index.d.ts:
+  - Zlozonosc cyklomatyczna: 1
+  - Gestosc kodu: 66.67%
+  - Wspolczynnik duplikacji: 0.00%
+  - Importy: 0
+  - Klasy: 0
+  - Petle: 0
+  - If-y: 0
+  - Try-catch: 0
+
+/Users/mateuszuser/Programistyka/Portal-Ogloszeniowy/Strona_9/node_modules/es-define-property/index.js:
+  - Zlozonosc cyklomatyczna: 3
+  - Gestosc kodu: 85.71%
+  - Wspolczynnik duplikacji: 0.00%
+  - Importy: 0
+  - Klasy: 0
+  - Petle: 0
+  - If-y: 1
+  - Try-catch: 1
+
+/Users/mateuszuser/Programistyka/Portal-Ogloszeniowy/Strona_9/node_modules/es-define-property/test/index.js:
+  - Zlozonosc cyklomatyczna: 2
+  - Gestosc kodu: 80.36%
+  - Wspolczynnik duplikacji: 0.00%
+  - Importy: 0
+  - Klasy: 0
+  - Petle: 0
+  - If-y: 1
+  - Try-catch: 0
+
+/Users/mateuszuser/Programistyka/Portal-Ogloszeniowy/Strona_9/node_modules/es-errors/eval.d.ts:
+  - Zlozonosc cyklomatyczna: 1
+  - Gestosc kodu: 66.67%
+  - Wspolczynnik duplikacji: 0.00%
+  - Importy: 0
+  - Klasy: 0
+  - Petle: 0
+  - If-y: 0
+  - Try-catch: 0
+
+/Users/mateuszuser/Programistyka/Portal-Ogloszeniowy/Strona_9/node_modules/es-errors/eval.js:
+  - Zlozonosc cyklomatyczna: 1
+  - Gestosc kodu: 75.00%
+  - Wspolczynnik duplikacji: 0.00%
+  - Importy: 0
+  - Klasy: 0
+  - Petle: 0
+  - If-y: 0
+  - Try-catch: 0
+
+/Users/mateuszuser/Programistyka/Portal-Ogloszeniowy/Strona_9/node_modules/es-errors/index.d.ts:
+  - Zlozonosc cyklomatyczna: 1
+  - Gestosc kodu: 66.67%
+  - Wspolczynnik duplikacji: 0.00%
+  - Importy: 0
+  - Klasy: 0
+  - Petle: 0
+  - If-y: 0
+  - Try-catch: 0
+
+/Users/mateuszuser/Programistyka/Portal-Ogloszeniowy/Strona_9/node_modules/es-errors/index.js:
+  - Zlozonosc cyklomatyczna: 1
+  - Gestosc kodu: 75.00%
+  - Wspolczynnik duplikacji: 0.00%
+  - Importy: 0
+  - Klasy: 0
+  - Petle: 0
+  - If-y: 0
+  - Try-catch: 0
+
+/Users/mateuszuser/Programistyka/Portal-Ogloszeniowy/Strona_9/node_modules/es-errors/range.d.ts:
+  - Zlozonosc cyklomatyczna: 1
+  - Gestosc kodu: 66.67%
+  - Wspolczynnik duplikacji: 0.00%
+  - Importy: 0
+  - Klasy: 0
+  - Petle: 0
+  - If-y: 0
+  - Try-catch: 0
+
+/Users/mateuszuser/Programistyka/Portal-Ogloszeniowy/Strona_9/node_modules/es-errors/range.js:
+  - Zlozonosc cyklomatyczna: 1
+  - Gestosc kodu: 75.00%
+  - Wspolczynnik duplikacji: 0.00%
+  - Importy: 0
+  - Klasy: 0
+  - Petle: 0
+  - If-y: 0
+  - Try-catch: 0
+
+/Users/mateuszuser/Programistyka/Portal-Ogloszeniowy/Strona_9/node_modules/es-errors/ref.d.ts:
+  - Zlozonosc cyklomatyczna: 1
+  - Gestosc kodu: 66.67%
+  - Wspolczynnik duplikacji: 0.00%
+  - Importy: 0
+  - Klasy: 0
+  - Petle: 0
+  - If-y: 0
+  - Try-catch: 0
+
+/Users/mateuszuser/Programistyka/Portal-Ogloszeniowy/Strona_9/node_modules/es-errors/ref.js:
+  - Zlozonosc cyklomatyczna: 1
+  - Gestosc kodu: 75.00%
+  - Wspolczynnik duplikacji: 0.00%
+  - Importy: 0
+  - Klasy: 0
+  - Petle: 0
+  - If-y: 0
+  - Try-catch: 0
+
+/Users/mateuszuser/Programistyka/Portal-Ogloszeniowy/Strona_9/node_modules/es-errors/syntax.d.ts:
+  - Zlozonosc cyklomatyczna: 1
+  - Gestosc kodu: 66.67%
+  - Wspolczynnik duplikacji: 0.00%
+  - Importy: 0
+  - Klasy: 0
+  - Petle: 0
+  - If-y: 0
+  - Try-catch: 0
+
+/Users/mateuszuser/Programistyka/Portal-Ogloszeniowy/Strona_9/node_modules/es-errors/syntax.js:
+  - Zlozonosc cyklomatyczna: 1
+  - Gestosc kodu: 75.00%
+  - Wspolczynnik duplikacji: 0.00%
+  - Importy: 0
+  - Klasy: 0
+  - Petle: 0
+  - If-y: 0
+  - Try-catch: 0
+
+/Users/mateuszuser/Programistyka/Portal-Ogloszeniowy/Strona_9/node_modules/es-errors/test/index.js:
+  - Zlozonosc cyklomatyczna: 1
+  - Gestosc kodu: 78.95%
+  - Wspolczynnik duplikacji: 0.00%
+  - Importy: 0
+  - Klasy: 0
+  - Petle: 0
+  - If-y: 0
+  - Try-catch: 0
+
+/Users/mateuszuser/Programistyka/Portal-Ogloszeniowy/Strona_9/node_modules/es-errors/type.d.ts:
+  - Zlozonosc cyklomatyczna: 1
+  - Gestosc kodu: 66.67%
+  - Wspolczynnik duplikacji: 0.00%
+  - Importy: 0
+  - Klasy: 0
+  - Petle: 0
+  - If-y: 0
+  - Try-catch: 0
+
+/Users/mateuszuser/Programistyka/Portal-Ogloszeniowy/Strona_9/node_modules/es-errors/type.js:
+  - Zlozonosc cyklomatyczna: 1
+  - Gestosc kodu: 75.00%
+  - Wspolczynnik duplikacji: 0.00%
+  - Importy: 0
+  - Klasy: 0
+  - Petle: 0
+  - If-y: 0
+  - Try-catch: 0
+
+/Users/mateuszuser/Programistyka/Portal-Ogloszeniowy/Strona_9/node_modules/es-errors/uri.d.ts:
+  - Zlozonosc cyklomatyczna: 1
+  - Gestosc kodu: 66.67%
+  - Wspolczynnik duplikacji: 0.00%
+  - Importy: 0
+  - Klasy: 0
+  - Petle: 0
+  - If-y: 0
+  - Try-catch: 0
+
+/Users/mateuszuser/Programistyka/Portal-Ogloszeniowy/Strona_9/node_modules/es-errors/uri.js:
+  - Zlozonosc cyklomatyczna: 1
+  - Gestosc kodu: 75.00%
+  - Wspolczynnik duplikacji: 0.00%
+  - Importy: 0
+  - Klasy: 0
+  - Petle: 0
+  - If-y: 0
+  - Try-catch: 0
+
+/Users/mateuszuser/Programistyka/Portal-Ogloszeniowy/Strona_9/node_modules/es-object-atoms/RequireObjectCoercible.d.ts:
+  - Zlozonosc cyklomatyczna: 1
+  - Gestosc kodu: 66.67%
+  - Wspolczynnik duplikacji: 0.00%
+  - Importy: 0
+  - Klasy: 0
+  - Petle: 0
+  - If-y: 0
+  - Try-catch: 0
+
+/Users/mateuszuser/Programistyka/Portal-Ogloszeniowy/Strona_9/node_modules/es-object-atoms/RequireObjectCoercible.js:
+  - Zlozonosc cyklomatyczna: 2
+  - Gestosc kodu: 81.82%
+  - Wspolczynnik duplikacji: 11.11%
+  - Importy: 0
+  - Klasy: 0
+  - Petle: 0
+  - If-y: 1
+  - Try-catch: 0
+
+/Users/mateuszuser/Programistyka/Portal-Ogloszeniowy/Strona_9/node_modules/es-object-atoms/ToObject.d.ts:
+  - Zlozonosc cyklomatyczna: 1
+  - Gestosc kodu: 85.71%
+  - Wspolczynnik duplikacji: 0.00%
+  - Importy: 0
+  - Klasy: 0
+  - Petle: 0
+  - If-y: 0
+  - Try-catch: 0
+
+/Users/mateuszuser/Programistyka/Portal-Ogloszeniowy/Strona_9/node_modules/es-object-atoms/ToObject.js:
+  - Zlozonosc cyklomatyczna: 1
+  - Gestosc kodu: 80.00%
+  - Wspolczynnik duplikacji: 12.50%
+  - Importy: 0
+  - Klasy: 0
+  - Petle: 0
+  - If-y: 0
+  - Try-catch: 0
+
+/Users/mateuszuser/Programistyka/Portal-Ogloszeniowy/Strona_9/node_modules/es-object-atoms/index.d.ts:
+  - Zlozonosc cyklomatyczna: 1
+  - Gestosc kodu: 66.67%
+  - Wspolczynnik duplikacji: 0.00%
+  - Importy: 0
+  - Klasy: 0
+  - Petle: 0
+  - If-y: 0
+  - Try-catch: 0
+
+/Users/mateuszuser/Programistyka/Portal-Ogloszeniowy/Strona_9/node_modules/es-object-atoms/index.js:
+  - Zlozonosc cyklomatyczna: 1
+  - Gestosc kodu: 75.00%
+  - Wspolczynnik duplikacji: 0.00%
+  - Importy: 0
+  - Klasy: 0
+  - Petle: 0
+  - If-y: 0
+  - Try-catch: 0
+
+/Users/mateuszuser/Programistyka/Portal-Ogloszeniowy/Strona_9/node_modules/es-object-atoms/isObject.d.ts:
+  - Zlozonosc cyklomatyczna: 1
+  - Gestosc kodu: 66.67%
+  - Wspolczynnik duplikacji: 0.00%
+  - Importy: 0
+  - Klasy: 0
+  - Petle: 0
+  - If-y: 0
+  - Try-catch: 0
+
+/Users/mateuszuser/Programistyka/Portal-Ogloszeniowy/Strona_9/node_modules/es-object-atoms/isObject.js:
+  - Zlozonosc cyklomatyczna: 1
+  - Gestosc kodu: 83.33%
+  - Wspolczynnik duplikacji: 20.00%
+  - Importy: 0
+  - Klasy: 0
+  - Petle: 0
+  - If-y: 0
+  - Try-catch: 0
+
+/Users/mateuszuser/Programistyka/Portal-Ogloszeniowy/Strona_9/node_modules/es-object-atoms/test/index.js:
+  - Zlozonosc cyklomatyczna: 1
+  - Gestosc kodu: 81.58%
+  - Wspolczynnik duplikacji: 0.00%
+  - Importy: 0
+  - Klasy: 0
+  - Petle: 0
+  - If-y: 0
+  - Try-catch: 0
+
+/Users/mateuszuser/Programistyka/Portal-Ogloszeniowy/Strona_9/node_modules/escape-html/index.js:
+  - Zlozonosc cyklomatyczna: 4
+  - Gestosc kodu: 83.33%
+  - Wspolczynnik duplikacji: 1.54%
+  - Importy: 0
+  - Klasy: 0
+  - Petle: 1
+  - If-y: 2
+  - Try-catch: 0
+
+/Users/mateuszuser/Programistyka/Portal-Ogloszeniowy/Strona_9/node_modules/etag/index.js:
+  - Zlozonosc cyklomatyczna: 5
+  - Gestosc kodu: 81.68%
+  - Wspolczynnik duplikacji: 0.00%
+  - Importy: 0
+  - Klasy: 0
+  - Petle: 0
+  - If-y: 4
+  - Try-catch: 0
+
+/Users/mateuszuser/Programistyka/Portal-Ogloszeniowy/Strona_9/node_modules/express/index.js:
+  - Zlozonosc cyklomatyczna: 1
+  - Gestosc kodu: 81.82%
+  - Wspolczynnik duplikacji: 0.00%
+  - Importy: 0
+  - Klasy: 0
+  - Petle: 0
+  - If-y: 0
+  - Try-catch: 0
+
+/Users/mateuszuser/Programistyka/Portal-Ogloszeniowy/Strona_9/node_modules/express/lib/application.js:
+  - Zlozonosc cyklomatyczna: 27
+  - Gestosc kodu: 83.99%
+  - Wspolczynnik duplikacji: 3.43%
+  - Importy: 0
+  - Klasy: 0
+  - Petle: 3
+  - If-y: 21
+  - Try-catch: 2
+
+/Users/mateuszuser/Programistyka/Portal-Ogloszeniowy/Strona_9/node_modules/express/lib/express.js:
+  - Zlozonosc cyklomatyczna: 1
+  - Gestosc kodu: 79.01%
+  - Wspolczynnik duplikacji: 1.61%
+  - Importy: 0
+  - Klasy: 0
+  - Petle: 0
+  - If-y: 0
+  - Try-catch: 0
+
+/Users/mateuszuser/Programistyka/Portal-Ogloszeniowy/Strona_9/node_modules/express/lib/request.js:
+  - Zlozonosc cyklomatyczna: 13
+  - Gestosc kodu: 86.38%
+  - Wspolczynnik duplikacji: 4.16%
+  - Importy: 0
+  - Klasy: 0
+  - Petle: 1
+  - If-y: 11
+  - Try-catch: 0
+
+/Users/mateuszuser/Programistyka/Portal-Ogloszeniowy/Strona_9/node_modules/express/lib/response.js:
+  - Zlozonosc cyklomatyczna: 66
+  - Gestosc kodu: 86.42%
+  - Wspolczynnik duplikacji: 2.13%
+  - Importy: 0
+  - Klasy: 0
+  - Petle: 3
+  - If-y: 62
+  - Try-catch: 0
+
+/Users/mateuszuser/Programistyka/Portal-Ogloszeniowy/Strona_9/node_modules/express/lib/utils.js:
+  - Zlozonosc cyklomatyczna: 12
+  - Gestosc kodu: 81.92%
+  - Wspolczynnik duplikacji: 5.09%
+  - Importy: 0
+  - Klasy: 0
+  - Petle: 1
+  - If-y: 10
+  - Try-catch: 0
+
+/Users/mateuszuser/Programistyka/Portal-Ogloszeniowy/Strona_9/node_modules/express/lib/view.js:
+  - Zlozonosc cyklomatyczna: 11
+  - Gestosc kodu: 78.54%
+  - Wspolczynnik duplikacji: 4.70%
+  - Importy: 0
+  - Klasy: 0
+  - Petle: 2
+  - If-y: 7
+  - Try-catch: 1
+
+/Users/mateuszuser/Programistyka/Portal-Ogloszeniowy/Strona_9/node_modules/finalhandler/index.js:
+  - Zlozonosc cyklomatyczna: 18
+  - Gestosc kodu: 81.57%
+  - Wspolczynnik duplikacji: 0.00%
+  - Importy: 0
+  - Klasy: 0
+  - Petle: 1
+  - If-y: 15
+  - Try-catch: 1
+
+/Users/mateuszuser/Programistyka/Portal-Ogloszeniowy/Strona_9/node_modules/forwarded/index.js:
+  - Zlozonosc cyklomatyczna: 6
+  - Gestosc kodu: 84.44%
+  - Wspolczynnik duplikacji: 0.00%
+  - Importy: 0
+  - Klasy: 0
+  - Petle: 1
+  - If-y: 4
+  - Try-catch: 0
+
+/Users/mateuszuser/Programistyka/Portal-Ogloszeniowy/Strona_9/node_modules/fresh/index.js:
+  - Zlozonosc cyklomatyczna: 12
+  - Gestosc kodu: 82.35%
+  - Wspolczynnik duplikacji: 0.98%
+  - Importy: 0
+  - Klasy: 0
+  - Petle: 2
+  - If-y: 9
+  - Try-catch: 0
+
+/Users/mateuszuser/Programistyka/Portal-Ogloszeniowy/Strona_9/node_modules/function-bind/implementation.js:
+  - Zlozonosc cyklomatyczna: 11
+  - Gestosc kodu: 83.33%
+  - Wspolczynnik duplikacji: 8.57%
+  - Importy: 0
+  - Klasy: 0
+  - Petle: 5
+  - If-y: 5
+  - Try-catch: 0
+
+/Users/mateuszuser/Programistyka/Portal-Ogloszeniowy/Strona_9/node_modules/function-bind/index.js:
+  - Zlozonosc cyklomatyczna: 1
+  - Gestosc kodu: 60.00%
+  - Wspolczynnik duplikacji: 0.00%
+  - Importy: 0
+  - Klasy: 0
+  - Petle: 0
+  - If-y: 0
+  - Try-catch: 0
+
+/Users/mateuszuser/Programistyka/Portal-Ogloszeniowy/Strona_9/node_modules/function-bind/test/index.js:
+  - Zlozonosc cyklomatyczna: 3
+  - Gestosc kodu: 89.29%
+  - Wspolczynnik duplikacji: 2.68%
+  - Importy: 0
+  - Klasy: 0
+  - Petle: 1
+  - If-y: 0
+  - Try-catch: 1
+
+/Users/mateuszuser/Programistyka/Portal-Ogloszeniowy/Strona_9/node_modules/get-intrinsic/index.js:
+  - Zlozonosc cyklomatyczna: 27
+  - Gestosc kodu: 90.74%
+  - Wspolczynnik duplikacji: 2.41%
+  - Importy: 0
+  - Klasy: 0
+  - Petle: 1
+  - If-y: 21
+  - Try-catch: 4
+
+/Users/mateuszuser/Programistyka/Portal-Ogloszeniowy/Strona_9/node_modules/get-intrinsic/test/GetIntrinsic.js:
+  - Zlozonosc cyklomatyczna: 1
+  - Gestosc kodu: 80.66%
+  - Wspolczynnik duplikacji: 0.90%
+  - Importy: 0
+  - Klasy: 0
+  - Petle: 0
+  - If-y: 0
+  - Try-catch: 0
+
+/Users/mateuszuser/Programistyka/Portal-Ogloszeniowy/Strona_9/node_modules/get-proto/Object.getPrototypeOf.d.ts:
+  - Zlozonosc cyklomatyczna: 1
+  - Gestosc kodu: 60.00%
+  - Wspolczynnik duplikacji: 0.00%
+  - Importy: 0
+  - Klasy: 0
+  - Petle: 0
+  - If-y: 0
+  - Try-catch: 0
+
+/Users/mateuszuser/Programistyka/Portal-Ogloszeniowy/Strona_9/node_modules/get-proto/Object.getPrototypeOf.js:
+  - Zlozonosc cyklomatyczna: 1
+  - Gestosc kodu: 66.67%
+  - Wspolczynnik duplikacji: 0.00%
+  - Importy: 0
+  - Klasy: 0
+  - Petle: 0
+  - If-y: 0
+  - Try-catch: 0
+
+/Users/mateuszuser/Programistyka/Portal-Ogloszeniowy/Strona_9/node_modules/get-proto/Reflect.getPrototypeOf.d.ts:
+  - Zlozonosc cyklomatyczna: 1
+  - Gestosc kodu: 66.67%
+  - Wspolczynnik duplikacji: 0.00%
+  - Importy: 0
+  - Klasy: 0
+  - Petle: 0
+  - If-y: 0
+  - Try-catch: 0
+
+/Users/mateuszuser/Programistyka/Portal-Ogloszeniowy/Strona_9/node_modules/get-proto/Reflect.getPrototypeOf.js:
+  - Zlozonosc cyklomatyczna: 1
+  - Gestosc kodu: 75.00%
+  - Wspolczynnik duplikacji: 0.00%
+  - Importy: 0
+  - Klasy: 0
+  - Petle: 0
+  - If-y: 0
+  - Try-catch: 0
+
+/Users/mateuszuser/Programistyka/Portal-Ogloszeniowy/Strona_9/node_modules/get-proto/index.d.ts:
+  - Zlozonosc cyklomatyczna: 1
+  - Gestosc kodu: 60.00%
+  - Wspolczynnik duplikacji: 0.00%
+  - Importy: 0
+  - Klasy: 0
+  - Petle: 0
+  - If-y: 0
+  - Try-catch: 0
+
+/Users/mateuszuser/Programistyka/Portal-Ogloszeniowy/Strona_9/node_modules/get-proto/index.js:
+  - Zlozonosc cyklomatyczna: 2
+  - Gestosc kodu: 88.89%
+  - Wspolczynnik duplikacji: 14.29%
+  - Importy: 0
+  - Klasy: 0
+  - Petle: 0
+  - If-y: 1
+  - Try-catch: 0
+
+/Users/mateuszuser/Programistyka/Portal-Ogloszeniowy/Strona_9/node_modules/get-proto/test/index.js:
+  - Zlozonosc cyklomatyczna: 3
+  - Gestosc kodu: 83.82%
+  - Wspolczynnik duplikacji: 0.00%
+  - Importy: 0
+  - Klasy: 0
+  - Petle: 0
+  - If-y: 2
+  - Try-catch: 0
+
+/Users/mateuszuser/Programistyka/Portal-Ogloszeniowy/Strona_9/node_modules/gopd/gOPD.d.ts:
+  - Zlozonosc cyklomatyczna: 1
+  - Gestosc kodu: 100.00%
+  - Wspolczynnik duplikacji: 0.00%
+  - Importy: 0
+  - Klasy: 0
+  - Petle: 0
+  - If-y: 0
+  - Try-catch: 0
+
+/Users/mateuszuser/Programistyka/Portal-Ogloszeniowy/Strona_9/node_modules/gopd/gOPD.js:
+  - Zlozonosc cyklomatyczna: 1
+  - Gestosc kodu: 75.00%
+  - Wspolczynnik duplikacji: 0.00%
+  - Importy: 0
+  - Klasy: 0
+  - Petle: 0
+  - If-y: 0
+  - Try-catch: 0
+
+/Users/mateuszuser/Programistyka/Portal-Ogloszeniowy/Strona_9/node_modules/gopd/index.d.ts:
+  - Zlozonosc cyklomatyczna: 1
+  - Gestosc kodu: 60.00%
+  - Wspolczynnik duplikacji: 0.00%
+  - Importy: 0
+  - Klasy: 0
+  - Petle: 0
+  - If-y: 0
+  - Try-catch: 0
+
+/Users/mateuszuser/Programistyka/Portal-Ogloszeniowy/Strona_9/node_modules/gopd/index.js:
+  - Zlozonosc cyklomatyczna: 3
+  - Gestosc kodu: 80.00%
+  - Wspolczynnik duplikacji: 0.00%
+  - Importy: 0
+  - Klasy: 0
+  - Petle: 0
+  - If-y: 1
+  - Try-catch: 1
+
+/Users/mateuszuser/Programistyka/Portal-Ogloszeniowy/Strona_9/node_modules/gopd/test/index.js:
+  - Zlozonosc cyklomatyczna: 1
+  - Gestosc kodu: 77.78%
+  - Wspolczynnik duplikacji: 0.00%
+  - Importy: 0
+  - Klasy: 0
+  - Petle: 0
+  - If-y: 0
+  - Try-catch: 0
+
+/Users/mateuszuser/Programistyka/Portal-Ogloszeniowy/Strona_9/node_modules/has-symbols/index.d.ts:
+  - Zlozonosc cyklomatyczna: 1
+  - Gestosc kodu: 66.67%
+  - Wspolczynnik duplikacji: 0.00%
+  - Importy: 0
+  - Klasy: 0
+  - Petle: 0
+  - If-y: 0
+  - Try-catch: 0
+
+/Users/mateuszuser/Programistyka/Portal-Ogloszeniowy/Strona_9/node_modules/has-symbols/index.js:
+  - Zlozonosc cyklomatyczna: 5
+  - Gestosc kodu: 78.57%
+  - Wspolczynnik duplikacji: 9.09%
+  - Importy: 0
+  - Klasy: 0
+  - Petle: 0
+  - If-y: 4
+  - Try-catch: 0
+
+/Users/mateuszuser/Programistyka/Portal-Ogloszeniowy/Strona_9/node_modules/has-symbols/shams.d.ts:
+  - Zlozonosc cyklomatyczna: 1
+  - Gestosc kodu: 66.67%
+  - Wspolczynnik duplikacji: 0.00%
+  - Importy: 0
+  - Klasy: 0
+  - Petle: 0
+  - If-y: 0
+  - Try-catch: 0
+
+/Users/mateuszuser/Programistyka/Portal-Ogloszeniowy/Strona_9/node_modules/has-symbols/shams.js:
+  - Zlozonosc cyklomatyczna: 13
+  - Gestosc kodu: 75.56%
+  - Wspolczynnik duplikacji: 3.70%
+  - Importy: 0
+  - Klasy: 0
+  - Petle: 1
+  - If-y: 11
+  - Try-catch: 0
+
+/Users/mateuszuser/Programistyka/Portal-Ogloszeniowy/Strona_9/node_modules/has-symbols/test/index.js:
+  - Zlozonosc cyklomatyczna: 1
+  - Gestosc kodu: 81.82%
+  - Wspolczynnik duplikacji: 0.00%
+  - Importy: 0
+  - Klasy: 0
+  - Petle: 0
+  - If-y: 0
+  - Try-catch: 0
+
+/Users/mateuszuser/Programistyka/Portal-Ogloszeniowy/Strona_9/node_modules/has-symbols/test/shams/core-js.js:
+  - Zlozonosc cyklomatyczna: 2
+  - Gestosc kodu: 79.31%
+  - Wspolczynnik duplikacji: 0.00%
+  - Importy: 0
+  - Klasy: 0
+  - Petle: 0
+  - If-y: 1
+  - Try-catch: 0
+
+/Users/mateuszuser/Programistyka/Portal-Ogloszeniowy/Strona_9/node_modules/has-symbols/test/shams/get-own-property-symbols.js:
+  - Zlozonosc cyklomatyczna: 2
+  - Gestosc kodu: 75.86%
+  - Wspolczynnik duplikacji: 0.00%
+  - Importy: 0
+  - Klasy: 0
+  - Petle: 0
+  - If-y: 1
+  - Try-catch: 0
+
+/Users/mateuszuser/Programistyka/Portal-Ogloszeniowy/Strona_9/node_modules/has-symbols/test/tests.js:
+  - Zlozonosc cyklomatyczna: 3
+  - Gestosc kodu: 81.03%
+  - Wspolczynnik duplikacji: 0.00%
+  - Importy: 0
+  - Klasy: 0
+  - Petle: 1
+  - If-y: 1
+  - Try-catch: 0
+
+/Users/mateuszuser/Programistyka/Portal-Ogloszeniowy/Strona_9/node_modules/hasown/index.d.ts:
+  - Zlozonosc cyklomatyczna: 1
+  - Gestosc kodu: 66.67%
+  - Wspolczynnik duplikacji: 0.00%
+  - Importy: 0
+  - Klasy: 0
+  - Petle: 0
+  - If-y: 0
+  - Try-catch: 0
+
+/Users/mateuszuser/Programistyka/Portal-Ogloszeniowy/Strona_9/node_modules/hasown/index.js:
+  - Zlozonosc cyklomatyczna: 1
+  - Gestosc kodu: 75.00%
+  - Wspolczynnik duplikacji: 0.00%
+  - Importy: 0
+  - Klasy: 0
+  - Petle: 0
+  - If-y: 0
+  - Try-catch: 0
+
+/Users/mateuszuser/Programistyka/Portal-Ogloszeniowy/Strona_9/node_modules/http-errors/index.js:
+  - Zlozonosc cyklomatyczna: 13
+  - Gestosc kodu: 80.69%
+  - Wspolczynnik duplikacji: 0.00%
+  - Importy: 0
+  - Klasy: 0
+  - Petle: 2
+  - If-y: 10
+  - Try-catch: 0
+
+/Users/mateuszuser/Programistyka/Portal-Ogloszeniowy/Strona_9/node_modules/iconv-lite/encodings/dbcs-codec.js:
+  - Zlozonosc cyklomatyczna: 77
+  - Gestosc kodu: 85.71%
+  - Wspolczynnik duplikacji: 0.00%
+  - Importy: 0
+  - Klasy: 0
+  - Petle: 22
+  - If-y: 54
+  - Try-catch: 0
+
+/Users/mateuszuser/Programistyka/Portal-Ogloszeniowy/Strona_9/node_modules/iconv-lite/encodings/dbcs-data.js:
+  - Zlozonosc cyklomatyczna: 1
+  - Gestosc kodu: 89.19%
+  - Wspolczynnik duplikacji: 0.00%
+  - Importy: 0
+  - Klasy: 0
+  - Petle: 0
+  - If-y: 0
+  - Try-catch: 0
+
+/Users/mateuszuser/Programistyka/Portal-Ogloszeniowy/Strona_9/node_modules/iconv-lite/encodings/index.js:
+  - Zlozonosc cyklomatyczna: 2
+  - Gestosc kodu: 86.96%
+  - Wspolczynnik duplikacji: 0.00%
+  - Importy: 0
+  - Klasy: 0
+  - Petle: 1
+  - If-y: 0
+  - Try-catch: 0
+
+/Users/mateuszuser/Programistyka/Portal-Ogloszeniowy/Strona_9/node_modules/iconv-lite/encodings/internal.js:
+  - Zlozonosc cyklomatyczna: 18
+  - Gestosc kodu: 81.65%
+  - Wspolczynnik duplikacji: 0.00%
+  - Importy: 0
+  - Klasy: 0
+  - Petle: 2
+  - If-y: 15
+  - Try-catch: 0
+
+/Users/mateuszuser/Programistyka/Portal-Ogloszeniowy/Strona_9/node_modules/iconv-lite/encodings/sbcs-codec.js:
+  - Zlozonosc cyklomatyczna: 8
+  - Gestosc kodu: 78.67%
+  - Wspolczynnik duplikacji: 0.00%
+  - Importy: 0
+  - Klasy: 0
+  - Petle: 4
+  - If-y: 3
+  - Try-catch: 0
+
+/Users/mateuszuser/Programistyka/Portal-Ogloszeniowy/Strona_9/node_modules/iconv-lite/encodings/sbcs-data-generated.js:
+  - Zlozonosc cyklomatyczna: 1
+  - Gestosc kodu: 99.79%
+  - Wspolczynnik duplikacji: 0.00%
+  - Importy: 0
+  - Klasy: 0
+  - Petle: 0
+  - If-y: 0
+  - Try-catch: 0
+
+/Users/mateuszuser/Programistyka/Portal-Ogloszeniowy/Strona_9/node_modules/iconv-lite/encodings/sbcs-data.js:
+  - Zlozonosc cyklomatyczna: 1
+  - Gestosc kodu: 83.15%
+  - Wspolczynnik duplikacji: 0.00%
+  - Importy: 0
+  - Klasy: 0
+  - Petle: 0
+  - If-y: 0
+  - Try-catch: 0
+
+/Users/mateuszuser/Programistyka/Portal-Ogloszeniowy/Strona_9/node_modules/iconv-lite/encodings/utf16.js:
+  - Zlozonosc cyklomatyczna: 23
+  - Gestosc kodu: 75.94%
+  - Wspolczynnik duplikacji: 0.00%
+  - Importy: 0
+  - Klasy: 0
+  - Petle: 6
+  - If-y: 16
+  - Try-catch: 0
+
+/Users/mateuszuser/Programistyka/Portal-Ogloszeniowy/Strona_9/node_modules/iconv-lite/encodings/utf32.js:
+  - Zlozonosc cyklomatyczna: 38
+  - Gestosc kodu: 76.87%
+  - Wspolczynnik duplikacji: 0.00%
+  - Importy: 0
+  - Klasy: 0
+  - Petle: 8
+  - If-y: 29
+  - Try-catch: 0
+
+/Users/mateuszuser/Programistyka/Portal-Ogloszeniowy/Strona_9/node_modules/iconv-lite/encodings/utf7.js:
+  - Zlozonosc cyklomatyczna: 29
+  - Gestosc kodu: 80.57%
+  - Wspolczynnik duplikacji: 1.99%
+  - Importy: 0
+  - Klasy: 0
+  - Petle: 4
+  - If-y: 24
+  - Try-catch: 0
+
+/Users/mateuszuser/Programistyka/Portal-Ogloszeniowy/Strona_9/node_modules/iconv-lite/lib/bom-handling.js:
+  - Zlozonosc cyklomatyczna: 5
+  - Gestosc kodu: 77.08%
+  - Wspolczynnik duplikacji: 2.78%
+  - Importy: 0
+  - Klasy: 0
+  - Petle: 0
+  - If-y: 4
+  - Try-catch: 0
+
+/Users/mateuszuser/Programistyka/Portal-Ogloszeniowy/Strona_9/node_modules/iconv-lite/lib/helpers/merge-exports.js:
+  - Zlozonosc cyklomatyczna: 3
+  - Gestosc kodu: 76.92%
+  - Wspolczynnik duplikacji: 0.00%
+  - Importy: 0
+  - Klasy: 0
+  - Petle: 1
+  - If-y: 1
+  - Try-catch: 0
+
+/Users/mateuszuser/Programistyka/Portal-Ogloszeniowy/Strona_9/node_modules/iconv-lite/lib/index.d.ts:
+  - Zlozonosc cyklomatyczna: 1
+  - Gestosc kodu: 79.07%
+  - Wspolczynnik duplikacji: 0.00%
+  - Importy: 2
+  - Klasy: 0
+  - Petle: 0
+  - If-y: 0
+  - Try-catch: 0
+
+/Users/mateuszuser/Programistyka/Portal-Ogloszeniowy/Strona_9/node_modules/iconv-lite/lib/index.js:
+  - Zlozonosc cyklomatyczna: 16
+  - Gestosc kodu: 75.27%
+  - Wspolczynnik duplikacji: 1.80%
+  - Importy: 0
+  - Klasy: 0
+  - Petle: 2
+  - If-y: 11
+  - Try-catch: 2
+
+/Users/mateuszuser/Programistyka/Portal-Ogloszeniowy/Strona_9/node_modules/iconv-lite/lib/streams.js:
+  - Zlozonosc cyklomatyczna: 11
+  - Gestosc kodu: 84.76%
+  - Wspolczynnik duplikacji: 0.00%
+  - Importy: 0
+  - Klasy: 0
+  - Petle: 0
+  - If-y: 6
+  - Try-catch: 4
+
+/Users/mateuszuser/Programistyka/Portal-Ogloszeniowy/Strona_9/node_modules/iconv-lite/types/encodings.d.ts:
+  - Zlozonosc cyklomatyczna: 1
+  - Gestosc kodu: 99.76%
+  - Wspolczynnik duplikacji: 0.00%
+  - Importy: 0
+  - Klasy: 0
+  - Petle: 0
+  - If-y: 0
+  - Try-catch: 0
+
+/Users/mateuszuser/Programistyka/Portal-Ogloszeniowy/Strona_9/node_modules/inherits/inherits.js:
+  - Zlozonosc cyklomatyczna: 3
+  - Gestosc kodu: 100.00%
+  - Wspolczynnik duplikacji: 0.00%
+  - Importy: 0
+  - Klasy: 0
+  - Petle: 0
+  - If-y: 1
+  - Try-catch: 1
+
+/Users/mateuszuser/Programistyka/Portal-Ogloszeniowy/Strona_9/node_modules/inherits/inherits_browser.js:
+  - Zlozonosc cyklomatyczna: 4
+  - Gestosc kodu: 100.00%
+  - Wspolczynnik duplikacji: 0.00%
+  - Importy: 0
+  - Klasy: 0
+  - Petle: 0
+  - If-y: 3
+  - Try-catch: 0
+
+/Users/mateuszuser/Programistyka/Portal-Ogloszeniowy/Strona_9/node_modules/ipaddr.js/ipaddr.min.js:
+  - Zlozonosc cyklomatyczna: 1
+  - Gestosc kodu: 100.00%
+  - Wspolczynnik duplikacji: 0.00%
+  - Importy: 0
+  - Klasy: 0
+  - Petle: 0
+  - If-y: 0
+  - Try-catch: 0
+
+/Users/mateuszuser/Programistyka/Portal-Ogloszeniowy/Strona_9/node_modules/ipaddr.js/lib/ipaddr.js:
+  - Zlozonosc cyklomatyczna: 82
+  - Gestosc kodu: 91.53%
+  - Wspolczynnik duplikacji: 11.20%
+  - Importy: 0
+  - Klasy: 0
+  - Petle: 21
+  - If-y: 54
+  - Try-catch: 6
+
+/Users/mateuszuser/Programistyka/Portal-Ogloszeniowy/Strona_9/node_modules/ipaddr.js/lib/ipaddr.js.d.ts:
+  - Zlozonosc cyklomatyczna: 1
+  - Gestosc kodu: 88.24%
+  - Wspolczynnik duplikacji: 0.00%
+  - Importy: 0
+  - Klasy: 2
+  - Petle: 0
+  - If-y: 0
+  - Try-catch: 0
+
+/Users/mateuszuser/Programistyka/Portal-Ogloszeniowy/Strona_9/node_modules/is-promise/index.d.ts:
+  - Zlozonosc cyklomatyczna: 1
+  - Gestosc kodu: 100.00%
+  - Wspolczynnik duplikacji: 0.00%
+  - Importy: 0
+  - Klasy: 0
+  - Petle: 0
+  - If-y: 0
+  - Try-catch: 0
+
+/Users/mateuszuser/Programistyka/Portal-Ogloszeniowy/Strona_9/node_modules/is-promise/index.js:
+  - Zlozonosc cyklomatyczna: 1
+  - Gestosc kodu: 83.33%
+  - Wspolczynnik duplikacji: 20.00%
+  - Importy: 0
+  - Klasy: 0
+  - Petle: 0
+  - If-y: 0
+  - Try-catch: 0
+
+/Users/mateuszuser/Programistyka/Portal-Ogloszeniowy/Strona_9/node_modules/math-intrinsics/abs.d.ts:
+  - Zlozonosc cyklomatyczna: 1
+  - Gestosc kodu: 100.00%
+  - Wspolczynnik duplikacji: 0.00%
+  - Importy: 0
+  - Klasy: 0
+  - Petle: 0
+  - If-y: 0
+  - Try-catch: 0
+
+/Users/mateuszuser/Programistyka/Portal-Ogloszeniowy/Strona_9/node_modules/math-intrinsics/abs.js:
+  - Zlozonosc cyklomatyczna: 1
+  - Gestosc kodu: 75.00%
+  - Wspolczynnik duplikacji: 0.00%
+  - Importy: 0
+  - Klasy: 0
+  - Petle: 0
+  - If-y: 0
+  - Try-catch: 0
+
+/Users/mateuszuser/Programistyka/Portal-Ogloszeniowy/Strona_9/node_modules/math-intrinsics/constants/maxArrayLength.d.ts:
+  - Zlozonosc cyklomatyczna: 1
+  - Gestosc kodu: 66.67%
+  - Wspolczynnik duplikacji: 0.00%
+  - Importy: 0
+  - Klasy: 0
+  - Petle: 0
+  - If-y: 0
+  - Try-catch: 0
+
+/Users/mateuszuser/Programistyka/Portal-Ogloszeniowy/Strona_9/node_modules/math-intrinsics/constants/maxArrayLength.js:
+  - Zlozonosc cyklomatyczna: 1
+  - Gestosc kodu: 75.00%
+  - Wspolczynnik duplikacji: 0.00%
+  - Importy: 0
+  - Klasy: 0
+  - Petle: 0
+  - If-y: 0
+  - Try-catch: 0
+
+/Users/mateuszuser/Programistyka/Portal-Ogloszeniowy/Strona_9/node_modules/math-intrinsics/constants/maxSafeInteger.d.ts:
+  - Zlozonosc cyklomatyczna: 1
+  - Gestosc kodu: 66.67%
+  - Wspolczynnik duplikacji: 0.00%
+  - Importy: 0
+  - Klasy: 0
+  - Petle: 0
+  - If-y: 0
+  - Try-catch: 0
+
+/Users/mateuszuser/Programistyka/Portal-Ogloszeniowy/Strona_9/node_modules/math-intrinsics/constants/maxSafeInteger.js:
+  - Zlozonosc cyklomatyczna: 1
+  - Gestosc kodu: 80.00%
+  - Wspolczynnik duplikacji: 0.00%
+  - Importy: 0
+  - Klasy: 0
+  - Petle: 0
+  - If-y: 0
+  - Try-catch: 0
+
+/Users/mateuszuser/Programistyka/Portal-Ogloszeniowy/Strona_9/node_modules/math-intrinsics/constants/maxValue.d.ts:
+  - Zlozonosc cyklomatyczna: 1
+  - Gestosc kodu: 66.67%
+  - Wspolczynnik duplikacji: 0.00%
+  - Importy: 0
+  - Klasy: 0
+  - Petle: 0
+  - If-y: 0
+  - Try-catch: 0
+
+/Users/mateuszuser/Programistyka/Portal-Ogloszeniowy/Strona_9/node_modules/math-intrinsics/constants/maxValue.js:
+  - Zlozonosc cyklomatyczna: 1
+  - Gestosc kodu: 80.00%
+  - Wspolczynnik duplikacji: 0.00%
+  - Importy: 0
+  - Klasy: 0
+  - Petle: 0
+  - If-y: 0
+  - Try-catch: 0
+
+/Users/mateuszuser/Programistyka/Portal-Ogloszeniowy/Strona_9/node_modules/math-intrinsics/floor.d.ts:
+  - Zlozonosc cyklomatyczna: 1
+  - Gestosc kodu: 100.00%
+  - Wspolczynnik duplikacji: 0.00%
+  - Importy: 0
+  - Klasy: 0
+  - Petle: 0
+  - If-y: 0
+  - Try-catch: 0
+
+/Users/mateuszuser/Programistyka/Portal-Ogloszeniowy/Strona_9/node_modules/math-intrinsics/floor.js:
+  - Zlozonosc cyklomatyczna: 1
+  - Gestosc kodu: 75.00%
+  - Wspolczynnik duplikacji: 0.00%
+  - Importy: 0
+  - Klasy: 0
+  - Petle: 0
+  - If-y: 0
+  - Try-catch: 0
+
+/Users/mateuszuser/Programistyka/Portal-Ogloszeniowy/Strona_9/node_modules/math-intrinsics/isFinite.d.ts:
+  - Zlozonosc cyklomatyczna: 1
+  - Gestosc kodu: 66.67%
+  - Wspolczynnik duplikacji: 0.00%
+  - Importy: 0
+  - Klasy: 0
+  - Petle: 0
+  - If-y: 0
+  - Try-catch: 0
+
+/Users/mateuszuser/Programistyka/Portal-Ogloszeniowy/Strona_9/node_modules/math-intrinsics/isFinite.js:
+  - Zlozonosc cyklomatyczna: 1
+  - Gestosc kodu: 75.00%
+  - Wspolczynnik duplikacji: 0.00%
+  - Importy: 0
+  - Klasy: 0
+  - Petle: 0
+  - If-y: 0
+  - Try-catch: 0
+
+/Users/mateuszuser/Programistyka/Portal-Ogloszeniowy/Strona_9/node_modules/math-intrinsics/isInteger.d.ts:
+  - Zlozonosc cyklomatyczna: 1
+  - Gestosc kodu: 66.67%
+  - Wspolczynnik duplikacji: 0.00%
+  - Importy: 0
+  - Klasy: 0
+  - Petle: 0
+  - If-y: 0
+  - Try-catch: 0
+
+/Users/mateuszuser/Programistyka/Portal-Ogloszeniowy/Strona_9/node_modules/math-intrinsics/isInteger.js:
+  - Zlozonosc cyklomatyczna: 2
+  - Gestosc kodu: 81.25%
+  - Wspolczynnik duplikacji: 15.38%
+  - Importy: 0
+  - Klasy: 0
+  - Petle: 0
+  - If-y: 1
+  - Try-catch: 0
+
+/Users/mateuszuser/Programistyka/Portal-Ogloszeniowy/Strona_9/node_modules/math-intrinsics/isNaN.d.ts:
+  - Zlozonosc cyklomatyczna: 1
+  - Gestosc kodu: 100.00%
+  - Wspolczynnik duplikacji: 0.00%
+  - Importy: 0
+  - Klasy: 0
+  - Petle: 0
+  - If-y: 0
+  - Try-catch: 0
+
+/Users/mateuszuser/Programistyka/Portal-Ogloszeniowy/Strona_9/node_modules/math-intrinsics/isNaN.js:
+  - Zlozonosc cyklomatyczna: 1
+  - Gestosc kodu: 83.33%
+  - Wspolczynnik duplikacji: 20.00%
+  - Importy: 0
+  - Klasy: 0
+  - Petle: 0
+  - If-y: 0
+  - Try-catch: 0
+
+/Users/mateuszuser/Programistyka/Portal-Ogloszeniowy/Strona_9/node_modules/math-intrinsics/isNegativeZero.d.ts:
+  - Zlozonosc cyklomatyczna: 1
+  - Gestosc kodu: 66.67%
+  - Wspolczynnik duplikacji: 0.00%
+  - Importy: 0
+  - Klasy: 0
+  - Petle: 0
+  - If-y: 0
+  - Try-catch: 0
+
+/Users/mateuszuser/Programistyka/Portal-Ogloszeniowy/Strona_9/node_modules/math-intrinsics/isNegativeZero.js:
+  - Zlozonosc cyklomatyczna: 1
+  - Gestosc kodu: 83.33%
+  - Wspolczynnik duplikacji: 20.00%
+  - Importy: 0
+  - Klasy: 0
+  - Petle: 0
+  - If-y: 0
+  - Try-catch: 0
+
+/Users/mateuszuser/Programistyka/Portal-Ogloszeniowy/Strona_9/node_modules/math-intrinsics/max.d.ts:
+  - Zlozonosc cyklomatyczna: 1
+  - Gestosc kodu: 100.00%
+  - Wspolczynnik duplikacji: 0.00%
+  - Importy: 0
+  - Klasy: 0
+  - Petle: 0
+  - If-y: 0
+  - Try-catch: 0
+
+/Users/mateuszuser/Programistyka/Portal-Ogloszeniowy/Strona_9/node_modules/math-intrinsics/max.js:
+  - Zlozonosc cyklomatyczna: 1
+  - Gestosc kodu: 75.00%
+  - Wspolczynnik duplikacji: 0.00%
+  - Importy: 0
+  - Klasy: 0
+  - Petle: 0
+  - If-y: 0
+  - Try-catch: 0
+
+/Users/mateuszuser/Programistyka/Portal-Ogloszeniowy/Strona_9/node_modules/math-intrinsics/min.d.ts:
+  - Zlozonosc cyklomatyczna: 1
+  - Gestosc kodu: 100.00%
+  - Wspolczynnik duplikacji: 0.00%
+  - Importy: 0
+  - Klasy: 0
+  - Petle: 0
+  - If-y: 0
+  - Try-catch: 0
+
+/Users/mateuszuser/Programistyka/Portal-Ogloszeniowy/Strona_9/node_modules/math-intrinsics/min.js:
+  - Zlozonosc cyklomatyczna: 1
+  - Gestosc kodu: 75.00%
+  - Wspolczynnik duplikacji: 0.00%
+  - Importy: 0
+  - Klasy: 0
+  - Petle: 0
+  - If-y: 0
+  - Try-catch: 0
+
+/Users/mateuszuser/Programistyka/Portal-Ogloszeniowy/Strona_9/node_modules/math-intrinsics/mod.d.ts:
+  - Zlozonosc cyklomatyczna: 1
+  - Gestosc kodu: 66.67%
+  - Wspolczynnik duplikacji: 0.00%
+  - Importy: 0
+  - Klasy: 0
+  - Petle: 0
+  - If-y: 0
+  - Try-catch: 0
+
+/Users/mateuszuser/Programistyka/Portal-Ogloszeniowy/Strona_9/node_modules/math-intrinsics/mod.js:
+  - Zlozonosc cyklomatyczna: 1
+  - Gestosc kodu: 77.78%
+  - Wspolczynnik duplikacji: 14.29%
+  - Importy: 0
+  - Klasy: 0
+  - Petle: 0
+  - If-y: 0
+  - Try-catch: 0
+
+/Users/mateuszuser/Programistyka/Portal-Ogloszeniowy/Strona_9/node_modules/math-intrinsics/pow.d.ts:
+  - Zlozonosc cyklomatyczna: 1
+  - Gestosc kodu: 100.00%
+  - Wspolczynnik duplikacji: 0.00%
+  - Importy: 0
+  - Klasy: 0
+  - Petle: 0
+  - If-y: 0
+  - Try-catch: 0
+
+/Users/mateuszuser/Programistyka/Portal-Ogloszeniowy/Strona_9/node_modules/math-intrinsics/pow.js:
+  - Zlozonosc cyklomatyczna: 1
+  - Gestosc kodu: 75.00%
+  - Wspolczynnik duplikacji: 0.00%
+  - Importy: 0
+  - Klasy: 0
+  - Petle: 0
+  - If-y: 0
+  - Try-catch: 0
+
+/Users/mateuszuser/Programistyka/Portal-Ogloszeniowy/Strona_9/node_modules/math-intrinsics/round.d.ts:
+  - Zlozonosc cyklomatyczna: 1
+  - Gestosc kodu: 100.00%
+  - Wspolczynnik duplikacji: 0.00%
+  - Importy: 0
+  - Klasy: 0
+  - Petle: 0
+  - If-y: 0
+  - Try-catch: 0
+
+/Users/mateuszuser/Programistyka/Portal-Ogloszeniowy/Strona_9/node_modules/math-intrinsics/round.js:
+  - Zlozonosc cyklomatyczna: 1
+  - Gestosc kodu: 75.00%
+  - Wspolczynnik duplikacji: 0.00%
+  - Importy: 0
+  - Klasy: 0
+  - Petle: 0
+  - If-y: 0
+  - Try-catch: 0
+
+/Users/mateuszuser/Programistyka/Portal-Ogloszeniowy/Strona_9/node_modules/math-intrinsics/sign.d.ts:
+  - Zlozonosc cyklomatyczna: 1
+  - Gestosc kodu: 66.67%
+  - Wspolczynnik duplikacji: 0.00%
+  - Importy: 0
+  - Klasy: 0
+  - Petle: 0
+  - If-y: 0
+  - Try-catch: 0
+
+/Users/mateuszuser/Programistyka/Portal-Ogloszeniowy/Strona_9/node_modules/math-intrinsics/sign.js:
+  - Zlozonosc cyklomatyczna: 2
+  - Gestosc kodu: 81.82%
+  - Wspolczynnik duplikacji: 22.22%
+  - Importy: 0
+  - Klasy: 0
+  - Petle: 0
+  - If-y: 1
+  - Try-catch: 0
+
+/Users/mateuszuser/Programistyka/Portal-Ogloszeniowy/Strona_9/node_modules/math-intrinsics/test/index.js:
+  - Zlozonosc cyklomatyczna: 1
+  - Gestosc kodu: 83.33%
+  - Wspolczynnik duplikacji: 0.00%
+  - Importy: 0
+  - Klasy: 0
+  - Petle: 0
+  - If-y: 0
+  - Try-catch: 0
+
+/Users/mateuszuser/Programistyka/Portal-Ogloszeniowy/Strona_9/node_modules/media-typer/index.js:
+  - Zlozonosc cyklomatyczna: 12
+  - Gestosc kodu: 81.12%
+  - Wspolczynnik duplikacji: 0.00%
+  - Importy: 0
+  - Klasy: 0
+  - Petle: 0
+  - If-y: 11
+  - Try-catch: 0
+
+/Users/mateuszuser/Programistyka/Portal-Ogloszeniowy/Strona_9/node_modules/merge-descriptors/index.d.ts:
+  - Zlozonosc cyklomatyczna: 1
+  - Gestosc kodu: 81.82%
+  - Wspolczynnik duplikacji: 0.00%
+  - Importy: 0
+  - Klasy: 0
+  - Petle: 0
+  - If-y: 0
+  - Try-catch: 0
+
+/Users/mateuszuser/Programistyka/Portal-Ogloszeniowy/Strona_9/node_modules/merge-descriptors/index.js:
+  - Zlozonosc cyklomatyczna: 5
+  - Gestosc kodu: 76.92%
+  - Wspolczynnik duplikacji: 5.56%
+  - Importy: 0
+  - Klasy: 0
+  - Petle: 1
+  - If-y: 3
+  - Try-catch: 0
+
+/Users/mateuszuser/Programistyka/Portal-Ogloszeniowy/Strona_9/node_modules/mime-db/index.js:
+  - Zlozonosc cyklomatyczna: 1
+  - Gestosc kodu: 83.33%
+  - Wspolczynnik duplikacji: 0.00%
+  - Importy: 0
+  - Klasy: 0
+  - Petle: 0
+  - If-y: 0
+  - Try-catch: 0
+
+/Users/mateuszuser/Programistyka/Portal-Ogloszeniowy/Strona_9/node_modules/mime-types/index.js:
+  - Zlozonosc cyklomatyczna: 16
+  - Gestosc kodu: 79.62%
+  - Wspolczynnik duplikacji: 0.00%
+  - Importy: 0
+  - Klasy: 0
+  - Petle: 1
+  - If-y: 14
+  - Try-catch: 0
+
+/Users/mateuszuser/Programistyka/Portal-Ogloszeniowy/Strona_9/node_modules/mime-types/mimeScore.js:
+  - Zlozonosc cyklomatyczna: 2
+  - Gestosc kodu: 78.95%
+  - Wspolczynnik duplikacji: 0.00%
+  - Importy: 0
+  - Klasy: 0
+  - Petle: 0
+  - If-y: 1
+  - Try-catch: 0
+
+/Users/mateuszuser/Programistyka/Portal-Ogloszeniowy/Strona_9/node_modules/ms/index.js:
+  - Zlozonosc cyklomatyczna: 12
+  - Gestosc kodu: 93.21%
+  - Wspolczynnik duplikacji: 13.91%
+  - Importy: 0
+  - Klasy: 0
+  - Petle: 0
+  - If-y: 11
+  - Try-catch: 0
+
+/Users/mateuszuser/Programistyka/Portal-Ogloszeniowy/Strona_9/node_modules/negotiator/index.js:
+  - Zlozonosc cyklomatyczna: 2
+  - Gestosc kodu: 80.72%
+  - Wspolczynnik duplikacji: 13.64%
+  - Importy: 0
+  - Klasy: 0
+  - Petle: 0
+  - If-y: 1
+  - Try-catch: 0
+
+/Users/mateuszuser/Programistyka/Portal-Ogloszeniowy/Strona_9/node_modules/negotiator/lib/charset.js:
+  - Zlozonosc cyklomatyczna: 11
+  - Gestosc kodu: 79.88%
+  - Wspolczynnik duplikacji: 5.34%
+  - Importy: 0
+  - Klasy: 0
+  - Petle: 3
+  - If-y: 7
+  - Try-catch: 0
+
+/Users/mateuszuser/Programistyka/Portal-Ogloszeniowy/Strona_9/node_modules/negotiator/lib/encoding.js:
+  - Zlozonosc cyklomatyczna: 15
+  - Gestosc kodu: 80.49%
+  - Wspolczynnik duplikacji: 4.35%
+  - Importy: 0
+  - Klasy: 0
+  - Petle: 3
+  - If-y: 11
+  - Try-catch: 0
+
+/Users/mateuszuser/Programistyka/Portal-Ogloszeniowy/Strona_9/node_modules/negotiator/lib/language.js:
+  - Zlozonosc cyklomatyczna: 13
+  - Gestosc kodu: 79.89%
+  - Wspolczynnik duplikacji: 5.04%
+  - Importy: 0
+  - Klasy: 0
+  - Petle: 3
+  - If-y: 9
+  - Try-catch: 0
+
+/Users/mateuszuser/Programistyka/Portal-Ogloszeniowy/Strona_9/node_modules/negotiator/lib/mediaType.js:
+  - Zlozonosc cyklomatyczna: 22
+  - Gestosc kodu: 78.91%
+  - Wspolczynnik duplikacji: 6.70%
+  - Importy: 0
+  - Klasy: 0
+  - Petle: 7
+  - If-y: 14
+  - Try-catch: 0
+
+/Users/mateuszuser/Programistyka/Portal-Ogloszeniowy/Strona_9/node_modules/object-assign/index.js:
+  - Zlozonosc cyklomatyczna: 14
+  - Gestosc kodu: 84.44%
+  - Wspolczynnik duplikacji: 12.68%
+  - Importy: 1
+  - Klasy: 0
+  - Petle: 4
+  - If-y: 8
+  - Try-catch: 1
+
+/Users/mateuszuser/Programistyka/Portal-Ogloszeniowy/Strona_9/node_modules/object-inspect/example/all.js:
+  - Zlozonosc cyklomatyczna: 1
+  - Gestosc kodu: 86.96%
+  - Wspolczynnik duplikacji: 5.00%
+  - Importy: 0
+  - Klasy: 0
+  - Petle: 0
+  - If-y: 0
+  - Try-catch: 0
+
+/Users/mateuszuser/Programistyka/Portal-Ogloszeniowy/Strona_9/node_modules/object-inspect/example/circular.js:
+  - Zlozonosc cyklomatyczna: 1
+  - Gestosc kodu: 83.33%
+  - Wspolczynnik duplikacji: 20.00%
+  - Importy: 0
+  - Klasy: 0
+  - Petle: 0
+  - If-y: 0
+  - Try-catch: 0
+
+/Users/mateuszuser/Programistyka/Portal-Ogloszeniowy/Strona_9/node_modules/object-inspect/example/fn.js:
+  - Zlozonosc cyklomatyczna: 1
+  - Gestosc kodu: 80.00%
+  - Wspolczynnik duplikacji: 25.00%
+  - Importy: 0
+  - Klasy: 0
+  - Petle: 0
+  - If-y: 0
+  - Try-catch: 0
+
+/Users/mateuszuser/Programistyka/Portal-Ogloszeniowy/Strona_9/node_modules/object-inspect/example/inspect.js:
+  - Zlozonosc cyklomatyczna: 1
+  - Gestosc kodu: 70.00%
+  - Wspolczynnik duplikacji: 14.29%
+  - Importy: 0
+  - Klasy: 0
+  - Petle: 0
+  - If-y: 0
+  - Try-catch: 0
+
+/Users/mateuszuser/Programistyka/Portal-Ogloszeniowy/Strona_9/node_modules/object-inspect/index.js:
+  - Zlozonosc cyklomatyczna: 95
+  - Gestosc kodu: 92.83%
+  - Wspolczynnik duplikacji: 17.00%
+  - Importy: 0
+  - Klasy: 0
+  - Petle: 7
+  - If-y: 76
+  - Try-catch: 11
+
+/Users/mateuszuser/Programistyka/Portal-Ogloszeniowy/Strona_9/node_modules/object-inspect/test/bigint.js:
+  - Zlozonosc cyklomatyczna: 1
+  - Gestosc kodu: 77.59%
+  - Wspolczynnik duplikacji: 0.00%
+  - Importy: 0
+  - Klasy: 0
+  - Petle: 0
+  - If-y: 0
+  - Try-catch: 0
+
+/Users/mateuszuser/Programistyka/Portal-Ogloszeniowy/Strona_9/node_modules/object-inspect/test/browser/dom.js:
+  - Zlozonosc cyklomatyczna: 1
+  - Gestosc kodu: 80.00%
+  - Wspolczynnik duplikacji: 0.00%
+  - Importy: 0
+  - Klasy: 0
+  - Petle: 0
+  - If-y: 0
+  - Try-catch: 0
+
+/Users/mateuszuser/Programistyka/Portal-Ogloszeniowy/Strona_9/node_modules/object-inspect/test/circular.js:
+  - Zlozonosc cyklomatyczna: 1
+  - Gestosc kodu: 87.50%
+  - Wspolczynnik duplikacji: 0.00%
+  - Importy: 0
+  - Klasy: 0
+  - Petle: 0
+  - If-y: 0
+  - Try-catch: 0
+
+/Users/mateuszuser/Programistyka/Portal-Ogloszeniowy/Strona_9/node_modules/object-inspect/test/deep.js:
+  - Zlozonosc cyklomatyczna: 1
+  - Gestosc kodu: 83.33%
+  - Wspolczynnik duplikacji: 0.00%
+  - Importy: 0
+  - Klasy: 0
+  - Petle: 0
+  - If-y: 0
+  - Try-catch: 0
+
+/Users/mateuszuser/Programistyka/Portal-Ogloszeniowy/Strona_9/node_modules/object-inspect/test/element.js:
+  - Zlozonosc cyklomatyczna: 1
+  - Gestosc kodu: 90.57%
+  - Wspolczynnik duplikacji: 0.00%
+  - Importy: 0
+  - Klasy: 0
+  - Petle: 0
+  - If-y: 0
+  - Try-catch: 0
+
+/Users/mateuszuser/Programistyka/Portal-Ogloszeniowy/Strona_9/node_modules/object-inspect/test/err.js:
+  - Zlozonosc cyklomatyczna: 1
+  - Gestosc kodu: 87.50%
+  - Wspolczynnik duplikacji: 0.00%
+  - Importy: 0
+  - Klasy: 0
+  - Petle: 0
+  - If-y: 0
+  - Try-catch: 0
+
+/Users/mateuszuser/Programistyka/Portal-Ogloszeniowy/Strona_9/node_modules/object-inspect/test/fakes.js:
+  - Zlozonosc cyklomatyczna: 1
+  - Gestosc kodu: 86.21%
+  - Wspolczynnik duplikacji: 0.00%
+  - Importy: 0
+  - Klasy: 0
+  - Petle: 0
+  - If-y: 0
+  - Try-catch: 0
+
+/Users/mateuszuser/Programistyka/Portal-Ogloszeniowy/Strona_9/node_modules/object-inspect/test/fn.js:
+  - Zlozonosc cyklomatyczna: 1
+  - Gestosc kodu: 85.53%
+  - Wspolczynnik duplikacji: 3.08%
+  - Importy: 0
+  - Klasy: 0
+  - Petle: 0
+  - If-y: 0
+  - Try-catch: 0
+
+/Users/mateuszuser/Programistyka/Portal-Ogloszeniowy/Strona_9/node_modules/object-inspect/test/global.js:
+  - Zlozonosc cyklomatyczna: 1
+  - Gestosc kodu: 76.47%
+  - Wspolczynnik duplikacji: 0.00%
+  - Importy: 0
+  - Klasy: 0
+  - Petle: 0
+  - If-y: 0
+  - Try-catch: 0
+
+/Users/mateuszuser/Programistyka/Portal-Ogloszeniowy/Strona_9/node_modules/object-inspect/test/has.js:
+  - Zlozonosc cyklomatyczna: 1
+  - Gestosc kodu: 73.33%
+  - Wspolczynnik duplikacji: 0.00%
+  - Importy: 0
+  - Klasy: 0
+  - Petle: 0
+  - If-y: 0
+  - Try-catch: 0
+
+/Users/mateuszuser/Programistyka/Portal-Ogloszeniowy/Strona_9/node_modules/object-inspect/test/holes.js:
+  - Zlozonosc cyklomatyczna: 1
+  - Gestosc kodu: 86.67%
+  - Wspolczynnik duplikacji: 0.00%
+  - Importy: 0
+  - Klasy: 0
+  - Petle: 0
+  - If-y: 0
+  - Try-catch: 0
+
+/Users/mateuszuser/Programistyka/Portal-Ogloszeniowy/Strona_9/node_modules/object-inspect/test/indent-option.js:
+  - Zlozonosc cyklomatyczna: 1
+  - Gestosc kodu: 88.19%
+  - Wspolczynnik duplikacji: 0.00%
+  - Importy: 0
+  - Klasy: 0
+  - Petle: 0
+  - If-y: 0
+  - Try-catch: 0
+
+/Users/mateuszuser/Programistyka/Portal-Ogloszeniowy/Strona_9/node_modules/object-inspect/test/inspect.js:
+  - Zlozonosc cyklomatyczna: 2
+  - Gestosc kodu: 85.61%
+  - Wspolczynnik duplikacji: 0.85%
+  - Importy: 0
+  - Klasy: 0
+  - Petle: 0
+  - If-y: 1
+  - Try-catch: 0
+
+/Users/mateuszuser/Programistyka/Portal-Ogloszeniowy/Strona_9/node_modules/object-inspect/test/lowbyte.js:
+  - Zlozonosc cyklomatyczna: 1
+  - Gestosc kodu: 83.33%
+  - Wspolczynnik duplikacji: 0.00%
+  - Importy: 0
+  - Klasy: 0
+  - Petle: 0
+  - If-y: 0
+  - Try-catch: 0
+
+/Users/mateuszuser/Programistyka/Portal-Ogloszeniowy/Strona_9/node_modules/object-inspect/test/number.js:
+  - Zlozonosc cyklomatyczna: 3
+  - Gestosc kodu: 81.03%
+  - Wspolczynnik duplikacji: 0.00%
+  - Importy: 0
+  - Klasy: 0
+  - Petle: 1
+  - If-y: 1
+  - Try-catch: 0
+
+/Users/mateuszuser/Programistyka/Portal-Ogloszeniowy/Strona_9/node_modules/object-inspect/test/quoteStyle.js:
+  - Zlozonosc cyklomatyczna: 1
+  - Gestosc kodu: 76.92%
+  - Wspolczynnik duplikacji: 0.00%
+  - Importy: 0
+  - Klasy: 0
+  - Petle: 0
+  - If-y: 0
+  - Try-catch: 0
+
+/Users/mateuszuser/Programistyka/Portal-Ogloszeniowy/Strona_9/node_modules/object-inspect/test/toStringTag.js:
+  - Zlozonosc cyklomatyczna: 1
+  - Gestosc kodu: 72.50%
+  - Wspolczynnik duplikacji: 0.00%
+  - Importy: 0
+  - Klasy: 0
+  - Petle: 0
+  - If-y: 0
+  - Try-catch: 0
+
+/Users/mateuszuser/Programistyka/Portal-Ogloszeniowy/Strona_9/node_modules/object-inspect/test/undef.js:
+  - Zlozonosc cyklomatyczna: 1
+  - Gestosc kodu: 83.33%
+  - Wspolczynnik duplikacji: 0.00%
+  - Importy: 0
+  - Klasy: 0
+  - Petle: 0
+  - If-y: 0
+  - Try-catch: 0
+
+/Users/mateuszuser/Programistyka/Portal-Ogloszeniowy/Strona_9/node_modules/object-inspect/test/values.js:
+  - Zlozonosc cyklomatyczna: 2
+  - Gestosc kodu: 78.93%
+  - Wspolczynnik duplikacji: 0.00%
+  - Importy: 0
+  - Klasy: 0
+  - Petle: 0
+  - If-y: 1
+  - Try-catch: 0
+
+/Users/mateuszuser/Programistyka/Portal-Ogloszeniowy/Strona_9/node_modules/object-inspect/test-core-js.js:
+  - Zlozonosc cyklomatyczna: 1
+  - Gestosc kodu: 76.92%
+  - Wspolczynnik duplikacji: 0.00%
+  - Importy: 0
+  - Klasy: 0
+  - Petle: 0
+  - If-y: 0
+  - Try-catch: 0
+
+/Users/mateuszuser/Programistyka/Portal-Ogloszeniowy/Strona_9/node_modules/object-inspect/util.inspect.js:
+  - Zlozonosc cyklomatyczna: 1
+  - Gestosc kodu: 100.00%
+  - Wspolczynnik duplikacji: 0.00%
+  - Importy: 0
+  - Klasy: 0
+  - Petle: 0
+  - If-y: 0
+  - Try-catch: 0
+
+/Users/mateuszuser/Programistyka/Portal-Ogloszeniowy/Strona_9/node_modules/on-finished/index.js:
+  - Zlozonosc cyklomatyczna: 16
+  - Gestosc kodu: 79.49%
+  - Wspolczynnik duplikacji: 0.00%
+  - Importy: 0
+  - Klasy: 0
+  - Petle: 1
+  - If-y: 13
+  - Try-catch: 1
+
+/Users/mateuszuser/Programistyka/Portal-Ogloszeniowy/Strona_9/node_modules/once/once.js:
+  - Zlozonosc cyklomatyczna: 3
+  - Gestosc kodu: 90.48%
+  - Wspolczynnik duplikacji: 0.00%
+  - Importy: 0
+  - Klasy: 0
+  - Petle: 0
+  - If-y: 2
+  - Try-catch: 0
+
+/Users/mateuszuser/Programistyka/Portal-Ogloszeniowy/Strona_9/node_modules/parseurl/index.js:
+  - Zlozonosc cyklomatyczna: 9
+  - Gestosc kodu: 81.65%
+  - Wspolczynnik duplikacji: 0.00%
+  - Importy: 0
+  - Klasy: 0
+  - Petle: 1
+  - If-y: 7
+  - Try-catch: 0
+
+/Users/mateuszuser/Programistyka/Portal-Ogloszeniowy/Strona_9/node_modules/path-to-regexp/dist/index.d.ts:
+  - Zlozonosc cyklomatyczna: 1
+  - Gestosc kodu: 100.00%
+  - Wspolczynnik duplikacji: 0.00%
+  - Importy: 0
+  - Klasy: 0
+  - Petle: 0
+  - If-y: 0
+  - Try-catch: 0
+
+/Users/mateuszuser/Programistyka/Portal-Ogloszeniowy/Strona_9/node_modules/path-to-regexp/dist/index.js:
+  - Zlozonosc cyklomatyczna: 54
+  - Gestosc kodu: 100.00%
+  - Wspolczynnik duplikacji: 8.15%
+  - Importy: 0
+  - Klasy: 2
+  - Petle: 12
+  - If-y: 41
+  - Try-catch: 0
+
+/Users/mateuszuser/Programistyka/Portal-Ogloszeniowy/Strona_9/node_modules/proxy-addr/index.js:
+  - Zlozonosc cyklomatyczna: 25
+  - Gestosc kodu: 79.82%
+  - Wspolczynnik duplikacji: 0.00%
+  - Importy: 0
+  - Klasy: 0
+  - Petle: 4
+  - If-y: 20
+  - Try-catch: 0
+
+/Users/mateuszuser/Programistyka/Portal-Ogloszeniowy/Strona_9/node_modules/qs/dist/qs.js:
+  - Zlozonosc cyklomatyczna: 1
+  - Gestosc kodu: 67.38%
+  - Wspolczynnik duplikacji: 0.00%
+  - Importy: 0
+  - Klasy: 0
+  - Petle: 0
+  - If-y: 0
+  - Try-catch: 0
+
+/Users/mateuszuser/Programistyka/Portal-Ogloszeniowy/Strona_9/node_modules/qs/lib/formats.js:
+  - Zlozonosc cyklomatyczna: 1
+  - Gestosc kodu: 86.96%
+  - Wspolczynnik duplikacji: 10.00%
+  - Importy: 0
+  - Klasy: 0
+  - Petle: 0
+  - If-y: 0
+  - Try-catch: 0
+
+/Users/mateuszuser/Programistyka/Portal-Ogloszeniowy/Strona_9/node_modules/qs/lib/index.js:
+  - Zlozonosc cyklomatyczna: 1
+  - Gestosc kodu: 81.82%
+  - Wspolczynnik duplikacji: 0.00%
+  - Importy: 0
+  - Klasy: 0
+  - Petle: 0
+  - If-y: 0
+  - Try-catch: 0
+
+/Users/mateuszuser/Programistyka/Portal-Ogloszeniowy/Strona_9/node_modules/qs/lib/parse.js:
+  - Zlozonosc cyklomatyczna: 44
+  - Gestosc kodu: 81.94%
+  - Wspolczynnik duplikacji: 4.90%
+  - Importy: 0
+  - Klasy: 0
+  - Petle: 5
+  - If-y: 38
+  - Try-catch: 0
+
+/Users/mateuszuser/Programistyka/Portal-Ogloszeniowy/Strona_9/node_modules/qs/lib/stringify.js:
+  - Zlozonosc cyklomatyczna: 35
+  - Gestosc kodu: 86.52%
+  - Wspolczynnik duplikacji: 4.95%
+  - Importy: 0
+  - Klasy: 0
+  - Petle: 3
+  - If-y: 31
+  - Try-catch: 0
+
+/Users/mateuszuser/Programistyka/Portal-Ogloszeniowy/Strona_9/node_modules/qs/lib/utils.js:
+  - Zlozonosc cyklomatyczna: 39
+  - Gestosc kodu: 84.06%
+  - Wspolczynnik duplikacji: 10.77%
+  - Importy: 0
+  - Klasy: 0
+  - Petle: 10
+  - If-y: 27
+  - Try-catch: 1
+
+/Users/mateuszuser/Programistyka/Portal-Ogloszeniowy/Strona_9/node_modules/qs/test/empty-keys-cases.js:
+  - Zlozonosc cyklomatyczna: 1
+  - Gestosc kodu: 99.63%
+  - Wspolczynnik duplikacji: 0.00%
+  - Importy: 0
+  - Klasy: 0
+  - Petle: 0
+  - If-y: 0
+  - Try-catch: 0
+
+/Users/mateuszuser/Programistyka/Portal-Ogloszeniowy/Strona_9/node_modules/qs/test/parse.js:
+  - Zlozonosc cyklomatyczna: 10
+  - Gestosc kodu: 83.81%
+  - Wspolczynnik duplikacji: 0.60%
+  - Importy: 0
+  - Klasy: 0
+  - Petle: 5
+  - If-y: 4
+  - Try-catch: 0
+
+/Users/mateuszuser/Programistyka/Portal-Ogloszeniowy/Strona_9/node_modules/qs/test/stringify.js:
+  - Zlozonosc cyklomatyczna: 8
+  - Gestosc kodu: 86.34%
+  - Wspolczynnik duplikacji: 1.51%
+  - Importy: 0
+  - Klasy: 0
+  - Petle: 2
+  - If-y: 5
+  - Try-catch: 0
+
+/Users/mateuszuser/Programistyka/Portal-Ogloszeniowy/Strona_9/node_modules/qs/test/utils.js:
+  - Zlozonosc cyklomatyczna: 2
+  - Gestosc kodu: 82.15%
+  - Wspolczynnik duplikacji: 0.33%
+  - Importy: 0
+  - Klasy: 0
+  - Petle: 1
+  - If-y: 0
+  - Try-catch: 0
+
+/Users/mateuszuser/Programistyka/Portal-Ogloszeniowy/Strona_9/node_modules/range-parser/index.js:
+  - Zlozonosc cyklomatyczna: 10
+  - Gestosc kodu: 80.25%
+  - Wspolczynnik duplikacji: 0.00%
+  - Importy: 0
+  - Klasy: 0
+  - Petle: 2
+  - If-y: 7
+  - Try-catch: 0
+
+/Users/mateuszuser/Programistyka/Portal-Ogloszeniowy/Strona_9/node_modules/raw-body/index.d.ts:
+  - Zlozonosc cyklomatyczna: 1
+  - Gestosc kodu: 90.59%
+  - Wspolczynnik duplikacji: 0.00%
+  - Importy: 0
+  - Klasy: 0
+  - Petle: 0
+  - If-y: 0
+  - Try-catch: 0
+
+/Users/mateuszuser/Programistyka/Portal-Ogloszeniowy/Strona_9/node_modules/raw-body/index.js:
+  - Zlozonosc cyklomatyczna: 28
+  - Gestosc kodu: 82.44%
+  - Wspolczynnik duplikacji: 0.00%
+  - Importy: 0
+  - Klasy: 0
+  - Petle: 1
+  - If-y: 23
+  - Try-catch: 3
+
+/Users/mateuszuser/Programistyka/Portal-Ogloszeniowy/Strona_9/node_modules/router/index.js:
+  - Zlozonosc cyklomatyczna: 62
+  - Gestosc kodu: 80.88%
+  - Wspolczynnik duplikacji: 0.00%
+  - Importy: 0
+  - Klasy: 0
+  - Petle: 10
+  - If-y: 46
+  - Try-catch: 5
+
+/Users/mateuszuser/Programistyka/Portal-Ogloszeniowy/Strona_9/node_modules/router/lib/layer.js:
+  - Zlozonosc cyklomatyczna: 23
+  - Gestosc kodu: 83.40%
+  - Wspolczynnik duplikacji: 0.00%
+  - Importy: 0
+  - Klasy: 0
+  - Petle: 3
+  - If-y: 16
+  - Try-catch: 3
+
+/Users/mateuszuser/Programistyka/Portal-Ogloszeniowy/Strona_9/node_modules/router/lib/route.js:
+  - Zlozonosc cyklomatyczna: 20
+  - Gestosc kodu: 78.51%
+  - Wspolczynnik duplikacji: 0.00%
+  - Importy: 0
+  - Klasy: 0
+  - Petle: 4
+  - If-y: 15
+  - Try-catch: 0
+
+/Users/mateuszuser/Programistyka/Portal-Ogloszeniowy/Strona_9/node_modules/safer-buffer/dangerous.js:
+  - Zlozonosc cyklomatyczna: 14
+  - Gestosc kodu: 81.03%
+  - Wspolczynnik duplikacji: 0.00%
+  - Importy: 0
+  - Klasy: 0
+  - Petle: 3
+  - If-y: 10
+  - Try-catch: 0
+
+/Users/mateuszuser/Programistyka/Portal-Ogloszeniowy/Strona_9/node_modules/safer-buffer/safer.js:
+  - Zlozonosc cyklomatyczna: 18
+  - Gestosc kodu: 84.42%
+  - Wspolczynnik duplikacji: 0.00%
+  - Importy: 0
+  - Klasy: 0
+  - Petle: 2
+  - If-y: 14
+  - Try-catch: 1
+
+/Users/mateuszuser/Programistyka/Portal-Ogloszeniowy/Strona_9/node_modules/safer-buffer/tests.js:
+  - Zlozonosc cyklomatyczna: 37
+  - Gestosc kodu: 92.61%
+  - Wspolczynnik duplikacji: 0.00%
+  - Importy: 0
+  - Klasy: 0
+  - Petle: 11
+  - If-y: 25
+  - Try-catch: 0
+
+/Users/mateuszuser/Programistyka/Portal-Ogloszeniowy/Strona_9/node_modules/send/index.js:
+  - Zlozonosc cyklomatyczna: 61
+  - Gestosc kodu: 82.65%
+  - Wspolczynnik duplikacji: 0.13%
+  - Importy: 0
+  - Klasy: 0
+  - Petle: 7
+  - If-y: 52
+  - Try-catch: 1
+
+/Users/mateuszuser/Programistyka/Portal-Ogloszeniowy/Strona_9/node_modules/serve-static/index.js:
+  - Zlozonosc cyklomatyczna: 13
+  - Gestosc kodu: 81.73%
+  - Wspolczynnik duplikacji: 0.00%
+  - Importy: 0
+  - Klasy: 0
+  - Petle: 1
+  - If-y: 11
+  - Try-catch: 0
+
+/Users/mateuszuser/Programistyka/Portal-Ogloszeniowy/Strona_9/node_modules/setprototypeof/index.d.ts:
+  - Zlozonosc cyklomatyczna: 1
+  - Gestosc kodu: 100.00%
+  - Wspolczynnik duplikacji: 0.00%
+  - Importy: 0
+  - Klasy: 0
+  - Petle: 0
+  - If-y: 0
+  - Try-catch: 0
+
+/Users/mateuszuser/Programistyka/Portal-Ogloszeniowy/Strona_9/node_modules/setprototypeof/index.js:
+  - Zlozonosc cyklomatyczna: 3
+  - Gestosc kodu: 88.24%
+  - Wspolczynnik duplikacji: 0.00%
+  - Importy: 0
+  - Klasy: 0
+  - Petle: 1
+  - If-y: 1
+  - Try-catch: 0
+
+/Users/mateuszuser/Programistyka/Portal-Ogloszeniowy/Strona_9/node_modules/setprototypeof/test/index.js:
+  - Zlozonosc cyklomatyczna: 2
+  - Gestosc kodu: 91.67%
+  - Wspolczynnik duplikacji: 0.00%
+  - Importy: 0
+  - Klasy: 0
+  - Petle: 0
+  - If-y: 1
+  - Try-catch: 0
+
+/Users/mateuszuser/Programistyka/Portal-Ogloszeniowy/Strona_9/node_modules/side-channel/index.d.ts:
+  - Zlozonosc cyklomatyczna: 1
+  - Gestosc kodu: 78.57%
+  - Wspolczynnik duplikacji: 0.00%
+  - Importy: 3
+  - Klasy: 0
+  - Petle: 0
+  - If-y: 0
+  - Try-catch: 0
+
+/Users/mateuszuser/Programistyka/Portal-Ogloszeniowy/Strona_9/node_modules/side-channel/index.js:
+  - Zlozonosc cyklomatyczna: 3
+  - Gestosc kodu: 86.05%
+  - Wspolczynnik duplikacji: 11.11%
+  - Importy: 0
+  - Klasy: 0
+  - Petle: 0
+  - If-y: 2
+  - Try-catch: 0
+
+/Users/mateuszuser/Programistyka/Portal-Ogloszeniowy/Strona_9/node_modules/side-channel/test/index.js:
+  - Zlozonosc cyklomatyczna: 1
+  - Gestosc kodu: 71.15%
+  - Wspolczynnik duplikacji: 0.00%
+  - Importy: 0
+  - Klasy: 0
+  - Petle: 0
+  - If-y: 0
+  - Try-catch: 0
+
+/Users/mateuszuser/Programistyka/Portal-Ogloszeniowy/Strona_9/node_modules/side-channel-list/index.d.ts:
+  - Zlozonosc cyklomatyczna: 1
+  - Gestosc kodu: 84.62%
+  - Wspolczynnik duplikacji: 0.00%
+  - Importy: 0
+  - Klasy: 0
+  - Petle: 0
+  - If-y: 0
+  - Try-catch: 0
+
+/Users/mateuszuser/Programistyka/Portal-Ogloszeniowy/Strona_9/node_modules/side-channel-list/index.js:
+  - Zlozonosc cyklomatyczna: 11
+  - Gestosc kodu: 93.81%
+  - Wspolczynnik duplikacji: 10.20%
+  - Importy: 0
+  - Klasy: 0
+  - Petle: 1
+  - If-y: 9
+  - Try-catch: 0
+
+/Users/mateuszuser/Programistyka/Portal-Ogloszeniowy/Strona_9/node_modules/side-channel-list/list.d.ts:
+  - Zlozonosc cyklomatyczna: 1
+  - Gestosc kodu: 92.86%
+  - Wspolczynnik duplikacji: 0.00%
+  - Importy: 0
+  - Klasy: 0
+  - Petle: 0
+  - If-y: 0
+  - Try-catch: 0
+
+/Users/mateuszuser/Programistyka/Portal-Ogloszeniowy/Strona_9/node_modules/side-channel-list/test/index.js:
+  - Zlozonosc cyklomatyczna: 1
+  - Gestosc kodu: 71.15%
+  - Wspolczynnik duplikacji: 0.00%
+  - Importy: 0
+  - Klasy: 0
+  - Petle: 0
+  - If-y: 0
+  - Try-catch: 0
+
+/Users/mateuszuser/Programistyka/Portal-Ogloszeniowy/Strona_9/node_modules/side-channel-map/index.d.ts:
+  - Zlozonosc cyklomatyczna: 1
+  - Gestosc kodu: 80.00%
+  - Wspolczynnik duplikacji: 0.00%
+  - Importy: 0
+  - Klasy: 0
+  - Petle: 0
+  - If-y: 0
+  - Try-catch: 0
+
+/Users/mateuszuser/Programistyka/Portal-Ogloszeniowy/Strona_9/node_modules/side-channel-map/index.js:
+  - Zlozonosc cyklomatyczna: 7
+  - Gestosc kodu: 89.71%
+  - Wspolczynnik duplikacji: 10.17%
+  - Importy: 0
+  - Klasy: 0
+  - Petle: 0
+  - If-y: 6
+  - Try-catch: 0
+
+/Users/mateuszuser/Programistyka/Portal-Ogloszeniowy/Strona_9/node_modules/side-channel-map/test/index.js:
+  - Zlozonosc cyklomatyczna: 1
+  - Gestosc kodu: 71.05%
+  - Wspolczynnik duplikacji: 0.00%
+  - Importy: 0
+  - Klasy: 0
+  - Petle: 0
+  - If-y: 0
+  - Try-catch: 0
+
+/Users/mateuszuser/Programistyka/Portal-Ogloszeniowy/Strona_9/node_modules/side-channel-weakmap/index.d.ts:
+  - Zlozonosc cyklomatyczna: 1
+  - Gestosc kodu: 80.00%
+  - Wspolczynnik duplikacji: 0.00%
+  - Importy: 0
+  - Klasy: 0
+  - Petle: 0
+  - If-y: 0
+  - Try-catch: 0
+
+/Users/mateuszuser/Programistyka/Portal-Ogloszeniowy/Strona_9/node_modules/side-channel-weakmap/index.js:
+  - Zlozonosc cyklomatyczna: 12
+  - Gestosc kodu: 91.67%
+  - Wspolczynnik duplikacji: 10.67%
+  - Importy: 0
+  - Klasy: 0
+  - Petle: 0
+  - If-y: 11
+  - Try-catch: 0
+
+/Users/mateuszuser/Programistyka/Portal-Ogloszeniowy/Strona_9/node_modules/side-channel-weakmap/test/index.js:
+  - Zlozonosc cyklomatyczna: 1
+  - Gestosc kodu: 71.05%
+  - Wspolczynnik duplikacji: 0.00%
+  - Importy: 0
+  - Klasy: 0
+  - Petle: 0
+  - If-y: 0
+  - Try-catch: 0
+
+/Users/mateuszuser/Programistyka/Portal-Ogloszeniowy/Strona_9/node_modules/statuses/index.js:
+  - Zlozonosc cyklomatyczna: 6
+  - Gestosc kodu: 79.45%
+  - Wspolczynnik duplikacji: 0.00%
+  - Importy: 0
+  - Klasy: 0
+  - Petle: 0
+  - If-y: 5
+  - Try-catch: 0
+
+/Users/mateuszuser/Programistyka/Portal-Ogloszeniowy/Strona_9/node_modules/toidentifier/index.js:
+  - Zlozonosc cyklomatyczna: 1
+  - Gestosc kodu: 84.38%
+  - Wspolczynnik duplikacji: 0.00%
+  - Importy: 0
+  - Klasy: 0
+  - Petle: 0
+  - If-y: 0
+  - Try-catch: 0
+
+/Users/mateuszuser/Programistyka/Portal-Ogloszeniowy/Strona_9/node_modules/type-is/index.js:
+  - Zlozonosc cyklomatyczna: 16
+  - Gestosc kodu: 86.40%
+  - Wspolczynnik duplikacji: 0.00%
+  - Importy: 0
+  - Klasy: 0
+  - Petle: 2
+  - If-y: 12
+  - Try-catch: 1
+
+/Users/mateuszuser/Programistyka/Portal-Ogloszeniowy/Strona_9/node_modules/unpipe/index.js:
+  - Zlozonosc cyklomatyczna: 8
+  - Gestosc kodu: 78.26%
+  - Wspolczynnik duplikacji: 0.00%
+  - Importy: 0
+  - Klasy: 0
+  - Petle: 2
+  - If-y: 5
+  - Try-catch: 0
+
+/Users/mateuszuser/Programistyka/Portal-Ogloszeniowy/Strona_9/node_modules/vary/index.js:
+  - Zlozonosc cyklomatyczna: 13
+  - Gestosc kodu: 83.22%
+  - Wspolczynnik duplikacji: 0.88%
+  - Importy: 0
+  - Klasy: 0
+  - Petle: 3
+  - If-y: 9
+  - Try-catch: 0
+
+/Users/mateuszuser/Programistyka/Portal-Ogloszeniowy/Strona_9/node_modules/wrappy/wrappy.js:
+  - Zlozonosc cyklomatyczna: 5
+  - Gestosc kodu: 87.88%
+  - Wspolczynnik duplikacji: 0.00%
+  - Importy: 0
+  - Klasy: 0
+  - Petle: 1
+  - If-y: 3
+  - Try-catch: 0
+
+/Users/mateuszuser/Programistyka/Portal-Ogloszeniowy/Strona_9/public/index.html:
+  - Zlozonosc cyklomatyczna: 25
+  - Gestosc kodu: 88.60%
+  - Wspolczynnik duplikacji: 0.90%
+  - Importy: 0
+  - Klasy: 0
+  - Petle: 0
+  - If-y: 20
+  - Try-catch: 4
+
+/Users/mateuszuser/Programistyka/Portal-Ogloszeniowy/Strona_9/public/style.css:
+  - Zlozonosc cyklomatyczna: 1
+  - Gestosc kodu: 88.04%
+  - Wspolczynnik duplikacji: 0.00%
+  - Importy: 2
+  - Klasy: 0
+  - Petle: 0
+  - If-y: 0
+  - Try-catch: 0
+
+/Users/mateuszuser/Programistyka/Portal-Ogloszeniowy/Strona_9/server.js:
+  - Zlozonosc cyklomatyczna: 1
+  - Gestosc kodu: 87.50%
+  - Wspolczynnik duplikacji: 16.67%
+  - Importy: 0
+  - Klasy: 0
+  - Petle: 0
+  - If-y: 0
+  - Try-catch: 0
+
+=== Co cwiczyc dalej ===
+1. Masz dlugie linie. Sprobuj je podzielic na krotsze fragmenty dla czytelnosci.
+2. Sprobuj zmniejszyc duplikacje kodu: wyodrebnij wspolne fragmenty do osobnych funkcji.
+3. Zmniejsz zlozonosc kodu: dziel duze funkcje na mniejsze, unikaj zbyt duzej zagniezdzonosci.
+4. Uporzadkuj importy: grupuj je logicznie i usuwaj nieuzywane.
+5. Uzywaj czytelnych nazw zmiennych i funkcji: niech nazwa mowi, co robi dana czesc kodu.
+6. Wyodrebnij powtarzajace sie wzorce kodu do osobnych funkcji lub modulow.
+7. Uporzadkuj importy: najpierw standardowe biblioteki, potem zewnetrzne, potem wlasne.
+8. Uzywaj opisowych nazw zmiennych: unikaj skrotow, niech nazwa mowi o przeznaczeniu.
+9. Usuwaj nieuzywane importy: kazdy import powinien byc rzeczywiscie wykorzystywany.
+10. Stosuj spójne konwencje nazewnictwa: np. camelCase dla zmiennych, PascalCase dla klas.
+11. Refaktoryzuj duze funkcje: dziel je na mniejsze, kazda powinna miec jedno, klarowne zadanie.
+12. Organizuj kod logicznie: powiazane funkcje i klasy grupuj razem.

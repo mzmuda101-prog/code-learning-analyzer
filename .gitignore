@@ -1,0 +1,26 @@
+# macOS
+.DS_Store
+
+# Python cache / local env
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Test / coverage artifacts
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Generated reports
+*.xlsx
+*.pdf
+*.html
+raport*.txt
+raport*.pdf
+raport*.html
+*_git_analysis.png
+
+# Local temp / editor files
+*.tmp
+*.swp
