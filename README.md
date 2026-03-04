@@ -1,19 +1,82 @@
-# Code Learning Analyzer v2
+# Code Learning Analyzer
 
-Prosty analizator kodu napisany pod nauke programowania.
-Cel projektu: mniej "vibecodingu", wiecej rozumienia jakosci kodu i swiadomych decyzji.
+Uniwersalny, otwartoźródłowy analizator jakości kodu – skierowany do osób uczących się programowania, junior developerów, rekruterów technicznych oraz wszystkich, którzy chcą szybciej poprawić jakość swojego kodu na realnych projektach.
 
-## Dlaczego ten projekt
+> Repozytorium publiczne – referencja do CV lub na LinkedIn.  
+> Demo oraz przykładowe raporty znajdziesz poniżej (sekcja **Demo**).
 
-To narzedzie zamienia surowe liczby (linie, funkcje, TODO, zlozonosc) na konkretne podpowiedzi:
-- co poprawic najpierw,
-- dlaczego to wazne,
-- od jakiego pliku/linii zaczac.
+---
 
-Projekt jest przygotowywany jako element portfolio GitHub/CV.
+## O projekcie
 
-## Najwazniejsze funkcje
+Code Learning Analyzer pomaga ocenić kod nie tylko pod względem liczbowym (linie, funkcje, TODO, złożoność), ale także podpowiada:
+- co poprawiać w pierwszej kolejności,
+- dlaczego te elementy są istotne,
+- jak poprawić jakość Twoich projektów na GitHubie.
 
+Celem jest mniej “vibecodingu”, a więcej pracy świadomej, rozwijającej dobre nawyki inżynierskie.
+
+---
+
+## Najważniejsze funkcje
+
+- **Analiza plików i folderów** – rekurencyjna oraz jednowarstwowa
+- **Wieloplatformowe raporty**:  
+  - raport tekstowy (`.txt`),  
+  - raport Excel (`.xlsx`),  
+  - raport PDF ze zintegrowanymi wykresami (`.pdf`),  
+  - raport HTML (`.html`).
+- **Zaawansowane statystyki Git** – analiza historii zmian, wykresy aktywności
+- **Podsumowanie udziału języków** – informacja ile kodu w danym języku, wykresy dla projektów wielojęzykowych
+- **Tryb nauki i wyjaśnienia metryk** (`--explain-metrics` w CLI, checkbox w GUI) – idealne do nauki analizowania kodu, szczególnie dla osób na poziomie juniora
+- **Dedykowane rekomendacje rozwojowe** – sekcja “co warto ćwiczyć dalej” generowana na podstawie analizy
+- **Obsługa wielu rozszerzeń plików, łatwe dostosowywanie do własnych potrzeb**
+
+---
+
+## Przykładowa analiza (Demo)
+
+Na razie repozytorium **nie zawiera** gotowych plików demo – zamiast martwych linków możesz sam szybko wygenerować raporty, żeby zobaczyć jak to wygląda w praktyce.
+
+- **Raport HTML** (łatwo podejrzeć w przeglądarce):
+
+```bash
+python3 analyzer.py /sciezka/do/projektu --html raport_demo.html --html-top-languages
+```
+
+- **Raport PDF z wykresami**:
+
+```bash
+python3 analyzer.py /sciezka/do/projektu --pdf raport_demo.pdf
+```
+
+Po wygenerowaniu możesz dodać własne przykładowe pliki (np. do folderu `demo/`) i podlinkować je w tym README, jeśli chcesz mieć w repo statyczne przykłady.
+
+---
+
+## Szybki start
+
+1. **Klonowanie repo:**  
+    ```bash
+    git clone https://github.com/mateuszuser/code-learning-analyzer.git
+    cd code-learning-analyzer
+    ```
+2. **Analiza z terminala:**  
+    ```bash
+    python3 analyzer.py ./ścieżka/do/projektu
+    ```
+    Wybrane opcje:
+    ```bash
+    python3 analyzer.py ./sciezka --out a.txt           # raport tekstowy
+    python3 analyzer.py ./sciezka --xlsx a.xlsx         # raport Excel
+    python3 analyzer.py ./sciezka --pdf a.pdf           # PDF z wykresami
+    python3 analyzer.py ./sciezka --html a.html         # HTML
+    python3 analyzer.py ./sciezka --no-recursive        # bez podfolderów
+    python3 analyzer.py ./sciezka --explain-metrics     # tryb nauki (wyjaśnienia)
+    python3 analyzer.py ./sciezka --git --git-start "4 weeks ago" --git-end "now"
+    ```
+3. **Uruchomienie GUI:**  
+    ```bash
 - analiza pliku lub folderu (rekurencyjnie lub nie),
 - raport tekstowy (`.txt`),
 - raport Excel (`.xlsx`),
@@ -118,14 +181,6 @@ python3 -m unittest discover -s tests -p "test_*.py" -v
 2. Dodac benchmarki i prosty profil wydajnosci.
 3. Dodac wersje `pytest` + CI po wrzutce na GitHub.
 4. Dodac porownanie "postepu w czasie" miedzy kolejnymi raportami.
-
-## Publikacja na GitHub (checklista)
-
-1. Uruchom testy lokalnie i sprawdz, ze wszystko jest zielone.
-2. Upewnij sie, ze pliki wynikowe raportow nie ida do repo (`.gitignore`).
-3. Dodaj 2-3 screenshoty GUI/raportu do `README` (sekcja "Demo").
-4. W opisie repo dodaj: "learning-focused code analyzer with CLI + GUI".
-5. Po publikacji dopisz link do repo w CV/portfolio.
 
 ## Licencja
 
